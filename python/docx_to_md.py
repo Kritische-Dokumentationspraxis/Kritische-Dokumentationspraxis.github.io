@@ -21,7 +21,7 @@ def convert_docx_to_md(input_path, output_path=None):
     # Write Markdown to file
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(result.markdown)
-
+    print(result.markdown)
     print(f"✅ Markdown file created at: {output_path}")
 
 
