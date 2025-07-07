@@ -33,8 +33,8 @@ jobs:
       - name: Deploy built files to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # deploys from top-level (where index.html is)
+          github_token: ${{ secrets.AZT_GITHUB_TOKEN }}
+          publish_dir: ./
           exclude_glob: |
             .github/**
             node_modules/**
