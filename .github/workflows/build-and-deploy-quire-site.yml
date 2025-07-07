@@ -22,8 +22,8 @@ jobs:
           node-version: '20'
 
       - name: Install Quire CLI
-        run: npm install -g @gettypubs/quire
-
+        run: npm install --global @thegetty/quire-cli
+        
       - name: Install project dependencies
         run: npm install
 
