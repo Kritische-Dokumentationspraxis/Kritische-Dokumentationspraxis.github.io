@@ -21,14 +21,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install pnpm
-        run: npm install -g pnpm
-
       - name: Install Quire CLI
-        run: pnpm install -g @gettypubs/quire
+        run: npm install -g @gettypubs/quire
 
       - name: Install project dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Build the site
         run: quire build
