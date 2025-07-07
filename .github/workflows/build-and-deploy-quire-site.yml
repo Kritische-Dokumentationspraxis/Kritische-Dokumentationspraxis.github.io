@@ -27,6 +27,7 @@ jobs:
       - name: execute py script # run file
         run: |
           python python/docx_to_md.py 2025-06-25_Handbuch_Sammlungsdokumentation.docx 
+      
 
   # build-and-deploy:
   #   runs-on: ubuntu-latest
