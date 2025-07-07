@@ -6,7 +6,7 @@ Version 1.2, Mai 2025
 
 Arbeitsgruppe «Kritische Dokumentationspraxis»
 
-Test 2
+Hallo Lukas
 
 **\*Infobox\***
 
