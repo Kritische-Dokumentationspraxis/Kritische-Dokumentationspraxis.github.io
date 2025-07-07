@@ -20,14 +20,14 @@ jobs:
         with:
           python-version: 3.13 #install the python needed
       - name: Install dependencies
-          run: |
-            python -m pip install --upgrade pip
-            pip install markitdown
-            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        run: |
+          python -m pip install --upgrade pip
+          pip install markitdown
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: execute py script # run file
         run: |
           python python/docx_to_md.py
-          
+
   build-and-deploy:
     runs-on: ubuntu-latest
 
