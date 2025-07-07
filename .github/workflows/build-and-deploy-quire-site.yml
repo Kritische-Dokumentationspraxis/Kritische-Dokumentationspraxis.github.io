@@ -21,6 +21,12 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Cache global npm (for @thegetty/quire-cli)
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-quire-npm-cache
+    
       - name: Install Quire CLI
         run: npm install --global @thegetty/quire-cli
         
