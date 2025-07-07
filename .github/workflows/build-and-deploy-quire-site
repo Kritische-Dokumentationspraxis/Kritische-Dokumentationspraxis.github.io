@@ -1,0 +1,48 @@
+name: Build and Deploy Quire Site
+
+on:
+  push:
+    branches:
+      - main  # Adjust to your default branch
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Allows pushing to gh-pages
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Quire CLI
+        run: npm install -g @gettypubs/quire
+
+      - name: Install project dependencies
+        run: npm install
+
+      - name: Build the site
+        run: quire build
+
+      - name: Deploy built files to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # deploys from top-level (where index.html is)
+          exclude_glob: |
+            .github/**
+            node_modules/**
+            content/**
+            theme/**
+            README.md
+            package*.json
+            quire.config.js
+            data/**
+            scripts/**
