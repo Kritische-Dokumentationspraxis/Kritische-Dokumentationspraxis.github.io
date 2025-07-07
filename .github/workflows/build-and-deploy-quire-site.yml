@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install markitdown
+          pip install markitdown[docx]
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: execute py script # run file
         run: |
