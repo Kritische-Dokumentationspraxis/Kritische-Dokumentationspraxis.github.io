@@ -9,65 +9,70 @@ permissions:
   contents: write  # Allows pushing to gh-pages
 
 jobs:
-  convert_md:
+#   convert_md:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: checkout repo content
+#         uses: actions/checkout@v4
+#       - name: setup python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: 3.13 #install the python needed
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install markitdown[docx]
+#           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+#       - name: execute py script # run file
+#         run: |
+#           python python/docx_to_md.py 2025-06-25_Handbuch_Sammlungsdokumentation.docx 
+      
+
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo content
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: setup python
-        uses: actions/setup-python@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: 3.13 #install the python needed
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install markitdown[docx]
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: execute py script # run file
-        run: |
-          python python/docx_to_md.py 2025-06-25_Handbuch_Sammlungsdokumentation.docx 
-      
+          node-version: '20'
 
-  # build-and-deploy:
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #     - name: Checkout repository
-  #       uses: actions/checkout@v4
-
-  #     - name: Set up Node.js
-  #       uses: actions/setup-node@v4
-  #       with:
-  #         node-version: '20'
-
-  #     - name: Cache global npm (for @thegetty/quire-cli)
-  #       uses: actions/cache@v4
-  #       with:
-  #         path: ~/.npm
-  #         key: ${{ runner.os }}-quire-npm-cache
+      - name: Cache global npm (for @thegetty/quire-cli)
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-quire-npm-cache
     
-  #     - name: Install Quire CLI
-  #       run: npm install --global @thegetty/quire-cli
+      - name: Install Quire CLI
+        run: |
+          echo "Installing Quire CLI globally..."
+          npm install --global @thegetty/quire-cli --verbose
+          echo "npm global list after install:"
+          npm list -g --depth=0
+          echo "Quire CLI installation complete."
         
-  #     - name: Install project dependencies
-  #       run: npm install
+      - name: Install project dependencies
+        run: npm install
 
-  #     - name: Build the site
-  #       run: quire build
+      - name: Build the site
+        run: quire build
 
-  #     - name: Deploy built files to GitHub Pages
-  #       uses: peaceiris/actions-gh-pages@v4
-  #       with:
-  #         github_token: ${{ secrets.AZT_GITHUB_TOKEN }}
-  #         publish_dir: ./
-  #         exclude_glob: |
-  #           .github/**
-  #           node_modules/**
-  #           content/**
-  #           theme/**
-  #           README.md
-  #           package*.json
-  #           quire.config.js
-  #           data/**
-  #           scripts/**
+      - name: Deploy built files to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.AZT_GITHUB_TOKEN }}
+          publish_dir: ./
+          exclude_glob: |
+            .github/**
+            node_modules/**
+            content/**
+            theme/**
+            README.md
+            package*.json
+            quire.config.js
+            data/**
+            scripts/**
