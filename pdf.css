@@ -9253,7 +9253,7 @@ html {
   display: block;
 }
 .quire:not(.no-js) .quire__secondary.is-expanded + .quire__primary {
-  transform: translate3d(calc(-352px + 2em), 0, 0);
+  width: calc(100% - 352px + 2em);
 }
 @media screen and (max-width: 352px) {
   .quire:not(.no-js) .quire__secondary.is-expanded + .quire__primary {
@@ -10127,6 +10127,7 @@ html div {
 @media screen {
   .quire-page {
     min-height: calc(100vh - 3rem - 2px);
+    min-height: 100vh;
   }
 }
 @media print {
@@ -14385,4 +14386,7 @@ body > div.mfp-bg.mfp-ready {
   .quire-page.pdf-cover-page .quire-page__content .quire-copyright__icon__link {
     display: none;
   }
+}
+.quire-navbar {
+  display: none;
 }
