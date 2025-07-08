@@ -9,34 +9,34 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://Kritische-Dokumentationspraxis.github.io'
+url: 'https://kd.azt.pink/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Sammlungsdokumentation im Fokus
+subtitle: Ein rassismuskritisches Handbuch für die Praxis
 reading_line:
-short_title:
+short_title: Ein rassismuskritisches Handbuch
 
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  one_line: 
+  full: "Full Description of the Project"
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
-language: en
-pub_type: book # book | journal-periodical | other
+pub_date: 2026-01-01 # YYYY-MM-DD
+language: de
+pub_type: handbook # book | journal-periodical | other
 
 identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
+  - name: Arbeitsgruppe «Kritische Dokumentationspraxis»
+    location: Zürich, Switzerland
+    url: change.ch
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
@@ -46,21 +46,20 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: SchweizerischesNationalmuseum
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+    full_name: Schweizerisches Nationalmuseum
+    title: 
+    affiliation: 
+    bio: 
+    url: https://www.landesmuseum.ch/en
     image: contributors/judith-keller.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2025 Arbeitsgruppe «Kritische Dokumentationspraxis»
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -101,11 +100,11 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+  # - type: bisac
+  #   name: PHOTOGRAPHY / Subjects & Themes / Historical
+  #   identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: anti racism
 
 # ------------------------------------------------------------------------------
 # Revision History

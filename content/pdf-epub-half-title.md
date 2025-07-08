@@ -10,7 +10,6 @@ toc: false
 ---
 
 <section class="half-title">
-
 {% if publication.short_title %}
   {{ publication.short_title | markdownify }}
 {% elsif publication.title %}
