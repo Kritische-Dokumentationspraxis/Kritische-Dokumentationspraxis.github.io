@@ -145,9 +145,9 @@
 
         + .quire__primary {
           // right: $quire-menu-width;
-          // width: calc(100% - #{$quire-menu-width});
           // transform: translate3d($quire-menu-width, 0, 0);
-          transform: translate3d(calc(-#{$quire-menu-width} + 2em), 0, 0);
+          // transform: translate3d(calc(-#{$quire-menu-width} + 2em), 0, 0);
+          width: calc(100% - #{$quire-menu-width} + 2em);
           // position: fixed;
           // transform: translate3d(-352px, 0 ,0);
           @media screen and (max-width: $quire-menu-width) {

@@ -45,6 +45,7 @@ html {
 
   @media screen {
     min-height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+    min-height: 100vh;
   }
   @media print {
     min-height: calc($print-height - $print-top-margin - $print-bottom-margin);

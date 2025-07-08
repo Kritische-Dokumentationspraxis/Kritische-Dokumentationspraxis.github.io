@@ -23,8 +23,8 @@ module.exports = async function(data) {
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">
           <div
-            aria-expanded="false"
-            class="quire__secondary"
+            aria-expanded="true"
+            class="quire__secondary is-expanded"
             id="site-menu"
             role="contentinfo"
             data-outputs-exclude="epub,pdf"
