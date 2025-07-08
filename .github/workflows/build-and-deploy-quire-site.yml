@@ -50,7 +50,7 @@ jobs:
       - name: Install Quire CLI
         run: |
           echo "Installing Quire CLI globally..."
-          npm install --global @thegetty/quire-cli --verbose
+          npm install --global @thegetty/quire-cli --ignore-scripts --verbose 
           echo "npm global list after install:"
           npm list -g --depth=0
           echo "Quire CLI installation complete."
