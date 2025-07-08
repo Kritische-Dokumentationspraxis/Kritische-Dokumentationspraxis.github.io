@@ -66,13 +66,3 @@ jobs:
         with:
           github_token: ${{ secrets.AZT_GITHUB_TOKEN }}
           publish_dir: ./_site
-          exclude_glob: |
-            .github/**
-            node_modules/**
-            content/**
-            theme/**
-            README.md
-            package*.json
-            quire.config.js
-            data/**
-            scripts/**
