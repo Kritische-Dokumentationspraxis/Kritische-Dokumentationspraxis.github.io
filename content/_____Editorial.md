@@ -6,6 +6,8 @@ order: 60
 
 Das Thema Dekolonialisierung[[2]](#footnote-2) und damit verbunden die kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen.[[3]](#footnote-3) Auch wenn sich GLAM-Institutionen (**G**alleries, **L**ibraries, **A**rchives, **M**useums) je nach Institutionstyp und Sammlungskontext unterscheiden und sich spezifische Fragen stellen müssen, stehen doch alle vor ähnlichen Herausforderungen.
 
+Hallo Fabian
+
 Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, das kulturelle Erbe zu pflegen. Das bedeutet auch, neue wissenschaftliche Erkenntnisse zu verfolgen und die eigene Sammlungs- und Dokumentationspraxis zu hinterfragen und gegebenenfalls anzupassen. Museen, Sammlungen und Archive sind Orte der Wissensproduktion, die in die Gesellschaft zurückwirken. Sie tragen somit eine gesellschaftliche Verantwortung.
 
 Mehrere Schweizer Gedächtnisinstitutionen[[4]](#footnote-4) haben sich aus diesem Grund zusammengeschlossen und im September 2022 die Arbeitsgruppe «Kritische Dokumentationspraxis» (AG) gegründet. Sie besteht aus Mitarbeiter:innen der Bereiche Sammlung, Dokumentation und Datenbank der teilnehmenden Institutionen. Ziel war die Erarbeitung des vorliegenden praxisorientierten Handbuchs. Es richtet sich in erster Linie an Personen, die in der Dokumentation und wissenschaftlichen Erschliessung tätig sind, sowie an interessierte Mitarbeiter:innen von Sammlungen, Museen und Archiven. Es soll dazu beitragen, die Herausforderungen im Bereich Dokumentationspraxis und Dekolonialisierung aufzuzeigen und die eigene Praxis rassismuskritisch zu hinterfragen.
