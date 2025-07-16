@@ -1,5 +1,6 @@
 ---
 title: Bibliografie
+slug: Bibliografie
 layout: page
 order: 220
 ---

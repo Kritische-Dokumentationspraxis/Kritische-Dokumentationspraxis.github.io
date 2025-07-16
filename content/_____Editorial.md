@@ -1,5 +1,6 @@
 ---
 title: Editorial
+slug: Editorial
 layout: page
 order: 60
 ---

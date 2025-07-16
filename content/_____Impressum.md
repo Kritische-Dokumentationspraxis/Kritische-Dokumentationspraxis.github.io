@@ -1,5 +1,6 @@
 ---
 title: Impressum
+slug: Impressum
 layout: page
 order: 240
 ---

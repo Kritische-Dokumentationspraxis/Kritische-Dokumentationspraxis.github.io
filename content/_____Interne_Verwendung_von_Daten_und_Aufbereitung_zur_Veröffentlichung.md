@@ -1,5 +1,6 @@
 ---
 title: Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung
+slug: Interne_Verwendung_von_Daten_und_Aufbereitung_zur_Veröffentlichung
 layout: page
 order: 120
 ---

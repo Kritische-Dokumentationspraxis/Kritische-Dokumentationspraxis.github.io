@@ -1,5 +1,6 @@
 ---
 title: Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen
+slug: Grundsätze_in_der_Überarbeitung_von_rassistischen_und_sensiblen_Datensätzen
 layout: page
 order: 140
 ---

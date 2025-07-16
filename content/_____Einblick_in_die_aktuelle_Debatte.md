@@ -1,5 +1,6 @@
 ---
 title: Einblick in die aktuelle Debatte
+slug: Einblick_in_die_aktuelle_Debatte
 layout: page
 order: 80
 ---

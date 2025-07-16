@@ -1,5 +1,6 @@
 ---
 title: Anhang
+slug: Anhang
 layout: page
 order: 200
 ---
