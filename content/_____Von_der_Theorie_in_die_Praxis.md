@@ -1,9 +1,9 @@
 ---
-title: Von der Theorie in die Praxis
-slug: Von_der_Theorie_in_die_Praxis
-layout: page
-order: 120
-color: default
+title: "Von der Theorie in die Praxis"
+slug: "Von_der_Theorie_in_die_Praxis"
+layout: "page"
+order: "120"
+color: "default"
 ---
 
 Erste Schritte einer rassismus- und diskriminierungskritischen Dokumentation in GLAM-Institutionen ist es, **Rassismen zu erkennen**, ihre Entstehung und historische Einordnung zu verstehen und sich ihrer Wirkung in der Vergangenheit und Gegenwart bewusst zu werden. Dies ermöglicht es erst, Rassismen in der Objekt- und Sammlungsdokumentation auszumachen und einen angemessenen Umgang damit zu entwickeln. Gedächtnisinstitutionen sind, was ihre Sammlungsbestände und ihre Geschichte anbelangt, so vielfältig und einzigartig, dass es unmöglich ist, eine allgemeingültige Lösung für den Umgang mit Rassismen zu präsentieren. Daher ist dieses Kapitel einerseits ein Versuch, den Begriff Rassismus einzuordnen, und andererseits, Denkanstösse für die Auseinandersetzung mit dem Thema zu geben.

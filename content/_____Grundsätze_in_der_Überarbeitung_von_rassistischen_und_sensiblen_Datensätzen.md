@@ -1,9 +1,9 @@
 ---
-title: Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen
-slug: Grundsätze_in_der_Überarbeitung_von_rassistischen_und_sensiblen_Datensätzen
-layout: page
-order: 220
-color: default
+title: "Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen"
+slug: "Grundsätze_in_der_Überarbeitung_von_rassistischen_und_sensiblen_Datensätzen"
+layout: "page"
+order: "220"
+color: "default"
 ---
 
 Die Überarbeitung von Datensätzen ist eine Gratwanderung zwischen verschiedenen Anforderungen an die Dokumentationspraxis. Einerseits soll der Reproduktion von Rassismus in den Datensätzen entgegengewirkt werden und damit historisch belastete Begriffe, Motive und Ideologien aus den Datensätzen entfernt werden. Andererseits heisst Dokumentieren auch immer, die Sammlungsgeschichte und die Quellenlage transparent zu halten und die Auffindbarkeit von Datensätzen und Informationen zu gewährleisten. Dies spricht gegen das Entfernen belasteter Begriffe. Historische Forschung zu ermöglichen, ist ein verpflichtender Grundsatz, dem sich Museen mit den Ethischen Richtlinien von ICOM verschrieben haben. Das bedeutet, dass Begriffe nicht einfach aus den Datensätzen entfernt und Datensätze nicht überarbeitet werden können, wenn die Rekonstruktion dieser Änderungen nicht gewährleistet ist. Die Arbeitsgruppe empfiehlt in diesem Zusammenhang, Überarbeitungen jeglicher Art zu dokumentieren – sei dies durch eine Änderungshistorie, die in der Datenbank implementiert ist, oder durch einen internen Verweis in einer Auflistung. Es sollte in der Datenbank nachvollziehbar sein, welche Änderungen vorgenommen werden, wie problematische Inhalte kontextualisiert und kritische Auseinandersetzungen gekennzeichnet werden.

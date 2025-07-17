@@ -1,9 +1,9 @@
 ---
-title: Nachwort
-slug: Nachwort
-layout: page
-order: 320
-color: default
+title: "Nachwort"
+slug: "Nachwort"
+layout: "page"
+order: "320"
+color: "default"
 ---
 
 Das vorliegende Handbuch ist ein Versuch, die Dokumentationspraxis in GLAM-Institutionen inklusiver und antirassistisch zu gestalten. Dazu haben wir uns und unsere Arbeitsprozesse kritisch hinterfragt und handeln in der Dokumentationspraxis nach bestem Wissen und Gewissen. Dieser Prozess ist mit viel Arbeit und (Selbst)Reflexion verbunden, zumal wir alle nicht frei von einer rassistischen Sozialisierung sind; wir befinden uns in einem nie abgeschlossenen Lernprozess.

@@ -1,8 +1,8 @@
 ---
-title: Vertiefungen
-slug: Vertiefungen
-layout: page
-order: 260
-color: default
+title: "Vertiefungen"
+slug: "Vertiefungen"
+layout: "page"
+order: "260"
+color: "default"
 ---
 

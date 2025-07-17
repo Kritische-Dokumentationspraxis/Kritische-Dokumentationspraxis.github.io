@@ -1,9 +1,9 @@
 ---
-title: Bibliografie
-slug: Bibliografie
-layout: page
-order: 340
-color: default
+title: "Bibliografie"
+slug: "Bibliografie"
+layout: "page"
+order: "340"
+color: "default"
 ---
 
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.

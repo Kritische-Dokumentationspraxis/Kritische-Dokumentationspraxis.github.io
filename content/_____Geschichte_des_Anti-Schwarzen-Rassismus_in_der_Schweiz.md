@@ -1,9 +1,9 @@
 ---
-title: Geschichte des Anti-Schwarzen-Rassismus in der Schweiz
-slug: Geschichte_des_Anti-Schwarzen-Rassismus_in_der_Schweiz
-layout: page
-order: 280
-color: default
+title: "Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
+slug: "Geschichte_des_Anti-Schwarzen-Rassismus_in_der_Schweiz"
+layout: "page"
+order: "280"
+color: "default"
 ---
 
 «Die diversen Ausprägungen von Rassismus erzeugen spezifische Geschichten und komplexe hierarchische Beziehungsgefüge zwischen Weissen und den von ihnen jeweils als <anders> hergestellten Menschen und Gesellschaften. Daraus ergibt sich die Notwendigkeit, beim Thematisieren von Rassismus immer zu konkretisieren, wer von wem vor dem Hintergrund welcher historischen und gegenwärtigen Prozesse als <Rasse> erfunden und rassistisch bewertet wurde bzw. wird.» (Noah Sow, (K)Erben des Kolonialismus im Wissensarchiv der deutschen Sprache, Ein kritisches Nachschlagewerk, S.38)
