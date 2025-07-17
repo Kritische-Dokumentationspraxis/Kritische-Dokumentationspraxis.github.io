@@ -1,8 +1,7 @@
 ---
 title: "Editorial"
 slug: "Editorial"
-layout: "page"
-order: "60"
+order: 60
 color: "blue"
 ---
 

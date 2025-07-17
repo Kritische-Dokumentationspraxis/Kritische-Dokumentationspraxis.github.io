@@ -1,8 +1,7 @@
 ---
 title: "Bibliografie"
 slug: "Bibliografie"
-layout: "page"
-order: "340"
+order: 340
 color: "default"
 ---
 

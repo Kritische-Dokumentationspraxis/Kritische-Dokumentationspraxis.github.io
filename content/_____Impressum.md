@@ -1,8 +1,7 @@
 ---
 title: "Impressum"
 slug: "Impressum"
-layout: "page"
-order: "360"
+order: 360
 color: "default"
 ---
 

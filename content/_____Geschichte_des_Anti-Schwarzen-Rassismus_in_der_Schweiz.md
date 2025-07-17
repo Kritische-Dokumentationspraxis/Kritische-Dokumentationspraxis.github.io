@@ -1,8 +1,7 @@
 ---
 title: "Geschichte des Anti-Schwarzen-Rassismus in der Schweiz"
 slug: "Geschichte_des_Anti-Schwarzen-Rassismus_in_der_Schweiz"
-layout: "page"
-order: "280"
+order: 280
 color: "default"
 ---
 

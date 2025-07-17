@@ -1,8 +1,7 @@
 ---
 title: "Von der Theorie in die Praxis"
 slug: "Von_der_Theorie_in_die_Praxis"
-layout: "page"
-order: "120"
+order: 120
 color: "default"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Nachwort"
 slug: "Nachwort"
-layout: "page"
-order: "320"
+order: 320
 color: "default"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Glossar"
 slug: "Glossar"
-layout: "page"
-order: "300"
+order: 300
 color: "default"
 ---
 

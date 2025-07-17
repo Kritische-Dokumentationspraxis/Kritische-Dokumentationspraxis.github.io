@@ -1,8 +1,7 @@
 ---
 title: "Sammlungen und Museen als koloniale Wissensspeicher"
 slug: "Sammlungen_und_Museen_als_koloniale_Wissensspeicher"
-layout: "page"
-order: "100"
+order: 100
 color: "default"
 ---
 
