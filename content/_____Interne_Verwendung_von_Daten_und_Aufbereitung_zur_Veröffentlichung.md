@@ -3,6 +3,7 @@ title: Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung
 slug: Interne_Verwendung_von_Daten_und_Aufbereitung_zur_Veröffentlichung
 layout: page
 order: 180
+color: default
 ---
 
 Informationen, die als Metadaten[[132]](#footnote-133) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet. So zum Beispiel bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[133]](#footnote-134) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.

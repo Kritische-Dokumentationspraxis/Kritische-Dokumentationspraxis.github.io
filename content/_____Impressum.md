@@ -3,6 +3,7 @@ title: Impressum
 slug: Impressum
 layout: page
 order: 360
+color: default
 ---
 
 Projektleitung

@@ -3,6 +3,7 @@ title: Communities, Sammlungen, und Sorgfalt (WIP)
 slug: Communities,_Sammlungen,_und_Sorgfalt_(WIP)
 layout: page
 order: 140
+color: default
 ---
 
 **Autorin**

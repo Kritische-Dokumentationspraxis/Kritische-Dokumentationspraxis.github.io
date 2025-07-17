@@ -3,6 +3,7 @@ title: **Lösungsansätze aus den Sammlungen**
 slug: Lösungsansätze_aus_den_Sammlungen
 layout: page
 order: 240
+color: default
 ---
 
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[156]](#footnote-157)

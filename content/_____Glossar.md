@@ -3,6 +3,7 @@ title: Glossar
 slug: Glossar
 layout: page
 order: 300
+color: default
 ---
 
 ## Community und Herkunftsgesellschaft

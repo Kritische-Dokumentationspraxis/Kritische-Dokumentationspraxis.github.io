@@ -3,6 +3,7 @@ title: Editorial
 slug: Editorial
 layout: page
 order: 60
+color: blue
 ---
 
 Das Thema Dekolonialisierung[[2]](#footnote-3) und damit verbunden die kritische Reflexion der eigenen Sammlungs- und Dokumentationspraxis hat in den letzten Jahren zunehmend an Bedeutung gewonnen.[[3]](#footnote-4) Auch wenn sich GLAM-Institutionen (**G**alleries, **L**ibraries, **A**rchives, **M**useums) je nach Institutionstyp und Sammlungskontext unterscheiden und sich spezifische Fragen stellen müssen, stehen doch alle vor ähnlichen Herausforderungen.

@@ -3,6 +3,7 @@ title: Sammlungen und Museen als Orte der Kolonialität
 slug: Sammlungen_und_Museen_als_Orte_der_Kolonialität
 layout: page
 order: 80
+color: default
 ---
 
 **Autorin**
