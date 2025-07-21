@@ -2,7 +2,7 @@
 title: "Editorial"
 slug: "Editorial"
 order: 80
-color: "blue"
+color: "default"
 toc:
   - level: 2
     title: "Eckpfeiler und Rahmenbedingungen des Handbuchs"

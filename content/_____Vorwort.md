@@ -2,7 +2,7 @@
 title: "Vorwort"
 slug: "Vorwort"
 order: 60
-color: "default"
+color: "blue"
 toc:
 
 ---
