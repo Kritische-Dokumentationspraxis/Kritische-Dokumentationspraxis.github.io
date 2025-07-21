@@ -1,7 +1,9 @@
 ---
 title: "Vertiefungen"
 slug: "Vertiefungen"
-order: 260
+order: 280
 color: "default"
+toc:
+
 ---
 

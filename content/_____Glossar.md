@@ -1,8 +1,27 @@
 ---
 title: "Glossar"
 slug: "Glossar"
-order: 300
+order: 320
 color: "default"
+toc:
+  - level: 2
+    title: "Community und Herkunftsgesellschaft"
+  - level: 2
+    title: "«rassifizierte Communities»"
+  - level: 2
+    title: "Dekolonialisierung und Dekolonialismus"
+  - level: 2
+    title: "Postkolonialismus und Postkoloniale Studien"
+  - level: 2
+    title: "Indigen"
+  - level: 2
+    title: "Exotismus / exotisierend"
+  - level: 2
+    title: "Objekt"
+  - level: 2
+    title: "Schwarz / weiss"
+  - level: 2
+    title: "Selbstbezeichnung und Fremdzuschreibung"
 ---
 
 ## Community und Herkunftsgesellschaft
@@ -19,7 +38,7 @@ Die Wörter «Dekolonisierung» und «Dekolonialismus» werden oft synonym verwe
 
 ## Postkolonialismus und Postkoloniale Studien
 
-Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf den kulturellen Aspekten des Kolonialismus und somit auf den diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekten und ihren Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räume durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[191]](#footnote-192)
+Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf den kulturellen Aspekten des Kolonialismus und somit auf den diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekten und ihren Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räume durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[188]](#footnote-188)
 
 ## Indigen
 

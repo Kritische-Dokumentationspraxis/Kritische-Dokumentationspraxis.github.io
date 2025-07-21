@@ -1,8 +1,10 @@
 ---
 title: "Bibliografie"
 slug: "Bibliografie"
-order: 340
+order: 360
 color: "default"
+toc:
+
 ---
 
 Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021.
@@ -100,7 +102,7 @@ Naturkundemuseum Berlin, Leitfaden für den Umgang mit naturhistorischen Sammlun
 
 Nationaler Diskriminierungs- und Rassismusmonitor (Hg.): Rassismusforschung I. Theoretische und interdisziplinäre Perspektiven, Bielefeld 2023.
 
-Neue Museumsdefinition: <<https://www.museums.ch/de/unser-engagement/schwerpunkte/neue-museumsdefinition-3413.html#:~:text=%C2%ABEin%20Museum%20ist%20eine%20nicht,f%C3%B6rdern%20Museen%20Diversit%C3%A4t%20und%20Nachhaltigkeit>>, Stand: 05.05.2025.
+Neue Museumsdefinition: <[https://www.museums.ch/de/unser-engagement/schwerpunkte/neue-museumsdefinition-3413.html#:~:text=%C2%ABEin%20Museum%20ist%20eine%20nicht,f%C3%B6rdern%20Museen%20Diversit%C3%A4t%20und%20Nachhaltigkeit](https://www.museums.ch/de/unser-engagement/schwerpunkte/neue-museumsdefinition-3413.html%23%3A~%3Atext%3D%2525C2%2525ABEin%252520Museum%252520ist%252520eine%252520nicht%2Cf%2525C3%2525B6rdern%252520Museen%252520Diversit%2525C3%2525A4t%252520und%252520Nachhaltigkeit)>, Stand: 05.05.2025.
 
 O.A., Glossar, Neger, Stiftung gegen Rassismus und Antisemitismus GRA, o.D., <<https://www.gra.ch/bildung/glossar/neger/>>, Stand: 26.02.2025.
 
@@ -110,7 +112,7 @@ O.A.: Jenische, Sinti/Manouches und Roma, Themendossier, Eidgenössische Kommiss
 
 O.A.: Missionsspardose, Wikipedia, 2025, < [https://de.wikipedia.org/wiki/Missionsspardosehttps://de.wikipedia.org/wiki/Missionsspardose](https://de.wikipedia.org/wiki/Missionsspardose) >, Stand: 26.02.2025.
 
-O.A.: Sinti und Roma – Antiziganismus, Definition Stereotype, Gedenkstätten in Baden-Württemberg, Landeszentrale für politische Bildung Baden-Württemberg, o.D., < <https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus#c38046> >, Stand: 26.02.2025.
+O.A.: Sinti und Roma – Antiziganismus, Definition Stereotype, Gedenkstätten in Baden-Württemberg, Landeszentrale für politische Bildung Baden-Württemberg, o.D., < [https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus#c38046](https://www.gedenkstaetten-bw.de/sinti-roma-antiziganismus%23c38046) >, Stand: 26.02.2025.
 
 Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018.
 
@@ -140,4 +142,4 @@ Turner, Hanna: Cataloguing Culture. Legacies of Colonialism in Museum Documentat
 
 Victoria and Albert Museum London, Equality, Diversity and Inclusion (EDI) at the V&A, <<https://www.vam.ac.uk/info/equality-diversity-and-inclusion-at-the-va/>>, Stand: 25.10.2024.
 
-Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <<https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html>>, Stand: 25.10.2024.
+Völkerkundemuseum der Universität Zürich, Erklärung des ISEK-Völkerkundemuseum zu #BlackLivesMatter, 26.06.2020, <[https://www.musethno.uzh.ch/de/Ueber\_uns/aktuell/Erkl%C3%A4rung-des-ISEK-V%C3%B6lkerkundemuseum-zu-BlackLivesMatter-.html](https://www.musethno.uzh.ch/de/Ueber_uns/aktuell/Erkl%2525C3%2525A4rung-des-ISEK-V%2525C3%2525B6lkerkundemuseum-zu-BlackLivesMatter-.html)>, Stand: 25.10.2024.
