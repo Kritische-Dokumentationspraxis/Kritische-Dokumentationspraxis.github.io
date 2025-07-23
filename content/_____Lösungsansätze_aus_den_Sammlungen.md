@@ -34,7 +34,7 @@ Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen 
 
 ## Fallbeispiel 1
 
-![](data:image/jpeg;base64...)
+![](/images/image010.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -102,7 +102,7 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online[[160]
 
 ## Fallbeispiel 2
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -146,7 +146,7 @@ Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläuter
 
 ## **Fallbeispiel** 3
 
-![P:\Projektportfolio\Sammlung kolonial\01_Sammlung kolonial\02_Objekte\02_Sammlung kolonial_Objekte_Auswahl\02_Struktur Neu\10_Alt\Bilder Auswahl Objekte\LM-99968_LM-99968.jpg](data:image/jpeg;base64...)
+![P:\Projektportfolio\Sammlung kolonial\01_Sammlung kolonial\02_Objekte\02_Sammlung kolonial_Objekte_Auswahl\02_Struktur Neu\10_Alt\Bilder Auswahl Objekte\LM-99968_LM-99968.jpg](/images/image012.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -202,7 +202,7 @@ Für die Präsentation des Objekts in der Sammlung online nach der Überarbeitun
 
 ## **Fallbeispiel** 4
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](data:image/jpeg;base64...)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](/images/image013.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -262,7 +262,7 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online freig
 
 ## **Fallbeispiel** 5
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](data:image/jpeg;base64...)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](/images/image014.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -316,9 +316,9 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online freig
 
 ## **Fallbeispiel** 6
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
 Institution: Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur
 
@@ -350,7 +350,7 @@ Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, i
 
 ## **Fallbeispiel** 7
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -410,7 +410,7 @@ Das Gemälde, inkl. die Rückseitenansicht mit den Etiketten und der Auktionszet
 
 ## **Fallbeispiel** 8
 
-![Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung](data:image/jpeg;base64...)
+![Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung](/images/image018.jpg)
 
 **© The Herbert Matter Estate/Fotostiftung Schweiz**
 
@@ -488,7 +488,7 @@ Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwort
 
 ## **Fallbeispiel** 9
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -534,7 +534,7 @@ Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s
 
 ## **Fallbeispiel** 10
 
-![C:\Users\snmchug\Downloads\LM-830972_LM-83097.2.jpg](data:image/jpeg;base64...)
+![C:\Users\snmchug\Downloads\LM-830972_LM-83097.2.jpg](/images/image020.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -602,7 +602,7 @@ Das Objekt ist aktuell (Stand April 2025) nicht in der Sammlung online aufgescha
 
 ## **Fallbeispiel** 11
 
-![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](data:image/jpeg;base64...)
+![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](/images/image021.jpg)
 
 Institution: Schweizerisches Nationalmuseum ©SNM
 
@@ -662,7 +662,7 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online freig
 
 ## **Fallbeispiel** 12
 
-![Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung](data:image/tiff;base64...)
+![Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung](/images/image022.jpg)
 
 **© Fotostiftung Schweiz**
 
