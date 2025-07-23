@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 slug: "Impressum"
-order: 380
+order: 360
 color: "default"
 toc:
 

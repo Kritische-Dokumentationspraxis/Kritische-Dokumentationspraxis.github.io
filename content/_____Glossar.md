@@ -1,7 +1,7 @@
 ---
 title: "Glossar"
 slug: "Glossar"
-order: 320
+order: 300
 color: "default"
 toc:
   - level: 2
@@ -38,7 +38,7 @@ Die Wörter «Dekolonisierung» und «Dekolonialismus» werden oft synonym verwe
 
 ## Postkolonialismus und Postkoloniale Studien
 
-Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf den kulturellen Aspekten des Kolonialismus und somit auf den diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekten und ihren Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räume durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[188]](#footnote-188)
+Die Postkolonialen Studien (engl. Postcolonial studies) fokussieren sich auf den kulturellen Aspekten des Kolonialismus und somit auf den diskursiven, semantischen und imaginären Erscheinungsformen kolonialer Vergangenheiten und Projekten und ihren Nachwirkungen bis heute. Der Begriff Postkolonialismus bezeichnet als kritische historische Kategorie einerseits die nachhaltige Prägung von Gesellschafen und Räume durch Kolonialismus, Dekolonisierung und neokolonialistischen Tendenzen. Andererseits stösst er eine diskurskritische Kulturtheorie an, die die normativen Wissensordnungen, den Eurozentrismus und Repräsentationssysteme kritisiert.[[191]](#footnote-192)
 
 ## Indigen
 

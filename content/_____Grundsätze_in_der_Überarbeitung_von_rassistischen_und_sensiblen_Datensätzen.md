@@ -1,7 +1,7 @@
 ---
 title: "Grundsätze in der Überarbeitung von rassistischen und sensiblen Datensätzen"
 slug: "Grundsätze_in_der_Überarbeitung_von_rassistischen_und_sensiblen_Datensätzen"
-order: 240
+order: 220
 color: "default"
 toc:
 
@@ -9,7 +9,7 @@ toc:
 
 Die Überarbeitung von Datensätzen ist eine Gratwanderung zwischen verschiedenen Anforderungen an die Dokumentationspraxis. Einerseits soll der Reproduktion von Rassismus in den Datensätzen entgegengewirkt werden und damit historisch belastete Begriffe, Motive und Ideologien aus den Datensätzen entfernt werden. Andererseits heisst Dokumentieren auch immer, die Sammlungsgeschichte und die Quellenlage transparent zu halten und die Auffindbarkeit von Datensätzen und Informationen zu gewährleisten. Dies spricht gegen das Entfernen belasteter Begriffe. Historische Forschung zu ermöglichen, ist ein verpflichtender Grundsatz, dem sich Museen mit den Ethischen Richtlinien von ICOM verschrieben haben. Das bedeutet, dass Begriffe nicht einfach aus den Datensätzen entfernt und Datensätze nicht überarbeitet werden können, wenn die Rekonstruktion dieser Änderungen nicht gewährleistet ist. Die Arbeitsgruppe empfiehlt in diesem Zusammenhang, Überarbeitungen jeglicher Art zu dokumentieren – sei dies durch eine Änderungshistorie, die in der Datenbank implementiert ist, oder durch einen internen Verweis in einer Auflistung. Es sollte in der Datenbank nachvollziehbar sein, welche Änderungen vorgenommen werden, wie problematische Inhalte kontextualisiert und kritische Auseinandersetzungen gekennzeichnet werden.
 
-Die Überarbeitung von Datensätzen sollte nach institutionell festgehaltenen oder besser noch international definierten Richtlinien und Standards für die Dokumentations- und Erschliessungsarbeit erfolgen.[[152]](#footnote-152)
+Die Überarbeitung von Datensätzen sollte nach institutionell festgehaltenen oder besser noch international definierten Richtlinien und Standards für die Dokumentations- und Erschliessungsarbeit erfolgen.[[155]](#footnote-156)
 
 Die Überarbeitung von Datensätzen in Datenbanken hängt stark von den technischen und personellen Möglichkeiten und Ressourcen einer Institution ab. Je nach Datenbank gibt es unterschiedliche Möglichkeiten an Funktionalitäten, die für eine rassismuskritische Überarbeitung genutzt werden können. Oft müssen für diese Arbeit bestehende Funktionalitäten im System angepasst oder neu hinzugefügt werden. Als Übersicht haben die Autor:innen des vorliegenden Handbuches einige Vorgehensweisen und Arbeitsschritte zusammengetragen, die für eine rassismussensible Bearbeitung wichtig sind:
 
@@ -23,7 +23,7 @@ Die Überarbeitung von Datensätzen in Datenbanken hängt stark von den technisc
    3. (optional) Regeln für die Präsentation der Objekte und Objektinformationen in der Online Sammlung beschliessen:
       1. Einschätzung der (technischen) Möglichkeiten, die zur Verfügung stehen, um sensible Informationen für die Nutzer:innen sichtbar bzw. unsichtbar zu machen.
    4. Definieren, wann Inhalte nicht zur Verfügung stehen sollen.
-6. Bei sensiblen Inhalten Trigger- oder Inhaltswarnungen implementieren, um die Nutzer:innen der Datenbank darauf aufmerksam zu machen, dass rassistische Sprache und rassistische Inhalte und Motive vorkommen.
+6. Bei sensiblen Inhalten **Trigger- oder Inhaltswarnungen** implementieren, um die Nutzer:innen der Datenbank darauf aufmerksam zu machen, dass rassistische Sprache und rassistische Inhalte und Motive vorkommen.
 7. Sensiblen Objekten einen «Inhaltshinweis» mitgegeben. Die verschiedenen Inhaltshinweise zu spezifischen rassistischen und diskriminierenden Praktiken können zum Beispiel in einer Dropdown-Liste implementiert und angewählt werden.
 8. Wenn immer möglich sollte bei sensiblen Objekten ein ergänzender Text hinzugefügt werden, der das Objekt kontextualisiert. Dieser kann in einem speziell dazu implementierten Datenfeld beigefügt werden.
 
