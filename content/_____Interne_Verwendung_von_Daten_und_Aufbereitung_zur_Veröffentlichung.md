@@ -44,9 +44,8 @@ In der Dokumentationspraxis ist es wichtig, ein Bewusstsein zu entwickeln, welch
 
 Da auch Bezeichnungen für verschiedene Datenbankfelder in den Institutionen unterschiedliche Inhalte beschreiben, hat die AG ein Arbeitsglossar für die verschiedenen Datenbankfelder erarbeitet. Dies soll definitorischen Unklarheiten entgegenwirken.
 
-|  |  |
-| --- | --- |
 | **Bezeichnung für das Datenbankfeld[[134]](#footnote-135)** | **Inhalt/Definition** |
+| --- | --- |
 | Inventarnummer, Signatur | Eindeutige Kennzeichnung, die einem Objekt zugewiesen ist, vermerkt wird welche der Identifikation, Dokumentation und Verwaltung der Sammlung dient. |
 | Person(en), Körperschaft(en), Herstellung, Hersteller:in:innen | Informationen über die Person(en), Werkstatt/Werkstätten oder Institution(en), die das Sammlungsobjekt geschaffen oder produziert haben, festhält, oder weitere Personen wie z.B. ehemalige Nutzer:innen, mit denen das Objekt in Verbindung stand. |
 | Titel (inkl. mehrere Auswahlfelder wie z.B. Nebentitel, beschreibender Titel, alternativer Titel, Originaltitel usw.) oder Bezeichnung (deskriptiver Titel) | Festhaltung der Benennung eines Sammlungsobjekts. Hier eingetragen sind entweder der originale Titel, den der:die Künstler:in oder der:die Hersteller:in, ein Auktionshaus usw. vergeben haben, oder eine nachträgliche Zuschreibungen durch die Institution. |
