@@ -22,6 +22,7 @@ toc:
     title: "Schwarz / weiss"
   - level: 2
     title: "Selbstbezeichnung und Fremdzuschreibung"
+None
 ---
 
 ## Community und Herkunftsgesellschaft

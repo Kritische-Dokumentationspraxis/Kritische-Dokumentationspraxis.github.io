@@ -4,7 +4,7 @@ slug: "Rassismuskritik_in_den_beteiligten_Institutionen_Anfänge_–_Ratlosigkei
 order: 200
 color: "default"
 toc:
-
+None
 ---
 
 Pro Institution kurze Abhandlung beifügen wie die Diskussionen zu rassistischen Begriffen und Ikonografien in der Datenbank gestartet haben, wie sie sich entwickelten und wo die Institutionen heute stehen. Z.B. auch ob es in interne Projekte, Workshops, Präsentationen usw. gab oder ob sich interne Arbeitsgremien gebildet haben.

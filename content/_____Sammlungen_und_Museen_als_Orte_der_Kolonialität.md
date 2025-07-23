@@ -4,7 +4,7 @@ slug: "Sammlungen_und_Museen_als_Orte_der_Kolonialität"
 order: 80
 color: "default"
 toc:
-
+type: external
 ---
 
 **Autorin**

@@ -28,6 +28,7 @@ toc:
     title: "**Fallbeispiel** 11"
   - level: 2
     title: "**Fallbeispiel** 12"
+None
 ---
 
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[156]](#footnote-157)
