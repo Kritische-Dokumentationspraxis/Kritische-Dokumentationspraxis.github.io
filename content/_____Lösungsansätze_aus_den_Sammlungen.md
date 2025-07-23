@@ -102,7 +102,7 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online[[160]
 
 ## Fallbeispiel 2
 
-![](/images/image002.jpg)
+![](/images/image011.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -316,9 +316,9 @@ Das Objekt ist aktuell nicht für die Präsentation in der Sammlung online freig
 
 ## **Fallbeispiel** 6
 
-![](/images/image002.jpg)
+![](/images/image015.jpg)
 
-![](/images/image002.jpg)
+![](/images/image016.jpg)
 
 Institution: Stiftung für Kunst, Kultur und Geschichte (SKKG), Winterthur
 
@@ -350,7 +350,7 @@ Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, i
 
 ## **Fallbeispiel** 7
 
-![](/images/image002.jpg)
+![](/images/image017.jpg)
 
 Institution: Bernisches Historisches Museum
 
@@ -488,7 +488,7 @@ Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwort
 
 ## **Fallbeispiel** 9
 
-![](/images/image002.jpg)
+![](/images/image019.jpg)
 
 Institution: Bernisches Historisches Museum
 

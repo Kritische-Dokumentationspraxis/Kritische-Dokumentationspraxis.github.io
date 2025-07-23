@@ -157,7 +157,7 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 * Anpassungen im Frontend der Online-Sammlung
 * Definition von Kriterien für Platzhalter
 
-![](/images/image002.jpg)![](/images/image002.jpg)
+![](/images/image003.jpg)![](/images/image004.jpg)
 
 ### (3) Titel neu formulieren
 
@@ -178,7 +178,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
   + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde
   + zur Definierung eines neuen, deskriptiven Titels.
 
-![](/images/image002.jpg)
+![](/images/image005.jpg)
 
 ### (4) Individuelle Inhaltswarnungen
 
@@ -198,9 +198,9 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 * Definition von Kriterien für Warnungen
 * Erstellung begleitender Erläuterungen
 
-![](/images/image002.jpg)![](/images/image002.jpg)
+![](/images/image006.jpg)![](/images/image007.jpg)
 
-![](/images/image002.jpg)
+![](/images/image008.jpg)
 
 ### (5) Allgemeine Inhaltswarnung für die gesamte Sammlung
 
@@ -219,7 +219,7 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 * Anpassungen im Frontend der Online-Sammlung
 * Formulierung einer allgemeinen Warnung
 
-![](/images/image002.jpg)
+![](/images/image009.jpg)
 
 **Zusammenfassung:**
 
