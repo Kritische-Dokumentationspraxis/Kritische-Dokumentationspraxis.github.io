@@ -4,6 +4,5 @@ slug: "Vertiefungen"
 order: 260
 color: "default"
 toc:
-None
 ---
 

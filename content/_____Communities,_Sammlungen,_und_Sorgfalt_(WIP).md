@@ -4,7 +4,6 @@ slug: "Communities,_Sammlungen,_und_Sorgfalt_(WIP)"
 order: 140
 color: "default"
 toc:
-None
 ---
 
 **Autorin**

@@ -4,7 +4,6 @@ slug: "Konstruktionen_von_«Weiss-Sein»_(englisch_Whiteness)_und_ihre_Auswirkun
 order: 160
 color: "default"
 toc:
-None
 ---
 
 **Autorin**

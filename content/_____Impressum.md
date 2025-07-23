@@ -4,7 +4,6 @@ slug: "Impressum"
 order: 360
 color: "default"
 toc:
-None
 ---
 
 Projektleitung

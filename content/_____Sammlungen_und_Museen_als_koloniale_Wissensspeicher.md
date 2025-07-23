@@ -4,7 +4,6 @@ slug: "Sammlungen_und_Museen_als_koloniale_Wissensspeicher"
 order: 100
 color: "default"
 toc:
-None
 ---
 
 **Autorin**
