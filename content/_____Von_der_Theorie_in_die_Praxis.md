@@ -42,7 +42,7 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 
 |  |
 | --- |
-| **Weiterführende Literatur:[[93]](#footnote-94)**   * Koller, Christian: Rassismus, Paderborn 2009 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d). * Hund, Wulf D.: Rassimus, Bielefeld 2007 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021 * Siehe hierzu auch die Literaturliste der Fachstelle für Rassismusbekämpfung FRB der Schweizerischen Eidgenossenschaft: [file:///Users/dick/Downloads/Literaturliste%20Rassismus%20und%20Antisemitismus\_d.pdf](file://snm01.local/Users/dick/Downloads/Literaturliste%20Rassismus%20und%20Antisemitismus_d.pdf) |
+| **Weiterführende Literatur:[[93]](#footnote-94)**   * Koller, Christian: Rassismus, Paderborn 2009 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d). * Hund, Wulf D.: Rassimus, Bielefeld 2007 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021 * Siehe hierzu auch die Literaturliste der Fachstelle für Rassismusbekämpfung FRB der Schweizerischen Eidgenossenschaft: [file:///Users/dick/Downloads/Literaturliste%20Rassismus%20und%20Antisemitismus\_d.pdf](../../../../dick/Downloads/Literaturliste%20Rassismus%20und%20Antisemitismus_d.pdf) |
 
 ## ****Wie weiter in der Praxis?****
 

@@ -124,7 +124,7 @@ Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. Mär
 
 Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinzugefügt, z. B.: «[Problematischer Titel]\*». Ergänzend kann eine Stellungnahme oder ein Verweis auf ein Glossar erfolgen.
 
-**Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[139]](#footnote-140) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[140]](#footnote-141) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[141]](#footnote-142)
+**Beispiele**: [Salzburg Museum[[139]](#footnote-140)](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b) mit [Glossar[[140]](#footnote-141)](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar) | [Museum Ludwig[[141]](#footnote-142)](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)
 
 **Vor- und Nachteile**:
 
@@ -144,7 +144,7 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingefügt oder Abbildungen werden unscharf dargestellt oder weggelassen.
 
-**Beispiele**: [Staatliche Kunstsammlungen Dresden](https://skd-online-collection.skd.museum/Details/Index/351932)[[142]](#footnote-143) | [ETH Bibliothek, Zürich](http://doi.org/10.3932/ethz-a-000024423)[[143]](#footnote-144)
+**Beispiele**: [Staatliche Kunstsammlungen Dresden[[142]](#footnote-143)](https://skd-online-collection.skd.museum/Details/Index/351932) | [ETH Bibliothek, Zürich[[143]](#footnote-144)](http://doi.org/10.3932/ethz-a-000024423)
 
 **Vor- und Nachteile**:
 
@@ -163,7 +163,7 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 
 Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezeichnungen ersetzt.
 
-**Beispiele**: [Rijksmuseum, Amsterdam](https://id.rijksmuseum.nl/200109696)[[144]](#footnote-145) | [Art Gallery of Ontario](https://ago.ca/agoinsider/whats-name)[[145]](#footnote-146) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532) [[146]](#footnote-147)
+**Beispiele**: [Rijksmuseum, Amsterdam[[144]](#footnote-145)](https://id.rijksmuseum.nl/200109696) | [Art Gallery of Ontario[[145]](#footnote-146)](https://ago.ca/agoinsider/whats-name) | [Musée du Louvre, Paris](https://collections.louvre.fr/ark%3A/53355/cl010065532) [[146]](#footnote-147)
 
 **Vor- und Nachteile**:
 
@@ -184,7 +184,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.
 
-**Beispiele**: [Victoria and Albert Museum, London](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)[[147]](#footnote-148)
+**Beispiele**: [Victoria and Albert Museum, London[[147]](#footnote-148)](https://collections.vam.ac.uk/item/O127411/a-negro-hung-alive-by-print-blake-william/)
 
 **Vor- und Nachteile**:
 
@@ -206,7 +206,7 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 
 Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der Startseite oder in der Objektansicht eingefügt.
 
-**Beispiele**: [Museum of Archaeology and Anthropology, Cambridge](https://collections.maa.cam.ac.uk/)[[148]](#footnote-149)| [Getty, Los Angeles, CA](https://www.getty.edu/art/collection/object/108GHT)[[149]](#footnote-150) | [PARC (Portal for African Research Collections), Basel](https://www.parc-portal.org/en/simple/ethical-guidelines)[[150]](#footnote-151) | [Black Cultural Archives, London](https://www.calmview.eu/BCA/CalmView/default.aspx)[[151]](#footnote-152) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf)[[152]](#footnote-153) | [Schweizerisches Nationalmuseum, Zürich](https://sammlung.nationalmuseum.ch/)[[153]](#footnote-154) | [Museum Fünf Kontinente, München](https://onlinedatenbank-museum-fuenf-kontinente.de/)[[154]](#footnote-155)
+**Beispiele**: [Museum of Archaeology and Anthropology, Cambridge[[148]](#footnote-149)](https://collections.maa.cam.ac.uk/)| [Getty, Los Angeles, CA[[149]](#footnote-150)](https://www.getty.edu/art/collection/object/108GHT) | [PARC (Portal for African Research Collections), Basel[[150]](#footnote-151)](https://www.parc-portal.org/en/simple/ethical-guidelines) | [Black Cultural Archives, London[[151]](#footnote-152)](https://www.calmview.eu/BCA/CalmView/default.aspx) | [MARKK (Museum am Rothenbaum. Kulturen und Künste der Welt), Hamburg[[152]](#footnote-153)](https://markk-hamburg.de/files/media/2020/07/MARKK-AF-bis-1920-Neu.pdf) | [Schweizerisches Nationalmuseum, Zürich[[153]](#footnote-154)](https://sammlung.nationalmuseum.ch/) | [Museum Fünf Kontinente, München[[154]](#footnote-155)](https://onlinedatenbank-museum-fuenf-kontinente.de/)
 
 **Vor- und Nachteile**:
 

@@ -90,7 +90,7 @@ Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklavere
 
 Guichard, Charlotte; Savoy, Bénédicte: Acquiring Cultures and Trading Value in a Global World, in: Savoy, Bénédicte; Guichard, Charlotte; Howald, Christine (Hg.): Acquiring Cultures. Histories of World Art on Western Markets, Berlin 2018.
 
-Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <<https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14>>, Stand: 15.10.2024.
+Habermas, Rebekka: Restitutionsdebatten, koloniale Aphasie und die Frage, was Europa ausmacht, in: ApUZ – Aus Politik und Zeitgeschichte, 27.09.2019, <[https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/#footnote-target-14](https://www.bpb.de/shop/zeitschriften/apuz/297595/restitutionsdebatten-koloniale-aphasie-und-die-frage-was-europa-ausmacht/%22%20%5Cl%20%22footnote-target-14)>, Stand: 15.10.2024.
 
 Habermas, Rebekka; Lindner, Ulrike: Rückgabe – und mehr!, in: Zeit online, 15.12.2018, <<https://www.zeit.de/2018/52/kunst-kolonialzeit-rueckgabe-restitution-geschichtspolitik>>, Stand: 15.10.2024.
 
