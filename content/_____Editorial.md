@@ -18,7 +18,7 @@ Mitarbeiter:innen solcher Gedächtnisinstitutionen haben die Aufgabe, das kultur
 
 Mehrere Schweizer Gedächtnisinstitutionen[[4]](#footnote-5) haben sich aus diesem Grund zusammengeschlossen und im September 2022 die Arbeitsgruppe «Kritische Dokumentationspraxis» (AG) gegründet. Sie besteht aus Mitarbeiter:innen der Bereiche Sammlung, Dokumentation und Datenbank der teilnehmenden Institutionen. Ziel war die Erarbeitung des vorliegenden praxisorientierten Handbuchs. Es richtet sich in erster Linie an Personen, die in der Dokumentation und wissenschaftlichen Erschliessung tätig sind, sowie an interessierte Mitarbeiter:innen von Sammlungen, Museen und Archiven. Es soll dazu beitragen, die Herausforderungen im Bereich Dokumentationspraxis und Dekolonialisierung aufzuzeigen und die eigene Praxis rassismuskritisch zu hinterfragen.
 
-[[blockStart]]
+[[block:start]]
 
 Weiterführende Literatur:
 
@@ -60,7 +60,7 @@ Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural
 
 National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 20.05.2025.
 
-[[blockEnd]]
+[[block:end]]
 
 ## Eckpfeiler und Rahmenbedingungen des Handbuchs
 
