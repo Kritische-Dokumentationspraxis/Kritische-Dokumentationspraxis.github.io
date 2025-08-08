@@ -4,7 +4,6 @@ slug: "Sammlungen_und_Museen_als_Orte_der_Kolonialität"
 order: 80
 color: "default"
 toc:
-type: external
 ---
 
 **Autorin**
@@ -16,6 +15,8 @@ Dr. Chonja Lee (sie/ihr) ist Dozentin für Kunstgeschichte der Frühen Neuzeit a
 In die Entstehung von Sammlungen jeglicher Art spielt der Zeitgeist hinein. Dieser spiegelt sich demnach auch im Inventarisieren, Katalogisieren, Klassifizieren, Ordnen, Beschreiben und Auswerten von Objekten und Archivalien wieder. Unter dem Gesichtspunkt einer antirassistischen Dokumentationspraxis ist es wichtig, sich mit der Geschichte von Sammlungen und damit verbundener Wissenspraxen zu befassen. Der Text von Chonja Lee beschreibt die Anfänge europäischer Sammlungen und ordnet diese in die imperialistisch- kolonialen Strukturen und rassistischen Ideologien ein.
 
 ---
+
+[[external:start]]
 
 Sammlungen sind nie neutral. Sie sind das Resultat von Entscheidungen darüber, was überhaupt sammlungs- und erhaltungswürdig ist. Schon indem Sammler:innen und Institutionen wie Museen sammeln, haben sie und ihre Akteur:innen Akteure die Macht, Objekte als relevant zu erklären. Durch diese Entscheidungen wird auch mitgeprägt, welches und wessen Wissen in die zukünftige Wissens- und Erinnerungskultur einfliesst.[[13]](#footnote-14)
 
@@ -44,6 +45,8 @@ Die Herausforderung der Museen besteht heute darin, die Geschichte und das epist
 Abb. 1: Monilola Olayemi Ilupeju: Wayward Dust, 2020, Performance/Video, Image Credit: SDTB/Hattendorf
 
 Ein Beispiel für eine Neugestaltung einer problematischen musealen Inszenierung ist die Performance «Wayward Dust» (2020) der Künstlerin Monilola Olayemi Ilupeju. Sie entstaubte im wörtlichen Sinne ein veraltetes Museumsdispositiv des Deutschen Technikmuseums, bevor dieses abgebaut und entsorgt wurde, da es eine rassistische Sicht auf versklavte Menschen in einem Frachtraum replizierte (Abb. 1). Der von der Künstlerin sichergestellte Staub hatte sich in den letzten Jahrzehnten auf den nackten, Schwarzen Körpern der lebensgrossen Ausstellungspuppen angesammelt. Staub im Museum ist ein praktisches Problem, berührt aber auch Fragen von Besitzverhältnissen, Materialität sowie Zeitlichkeit.[[62]](#footnote-63) Er versinnbildlicht die Musealisierung selbst, den Wandel von Objekten zu Erinnerungs- und Bedeutungsträgern innerhalb des Museums, sowie die im Laufe der Zeit stets neu zu hinterfragenden Praktiken der Konstruktion und Vermittlung von Wissen.
+
+[[block:start]]
 
 **Literatur**
 
@@ -202,3 +205,7 @@ Tesan, Harald: Vom Sammeln, Gesammelte Aspekte einer Kulturtechnik, in: Strobel,
 Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindung von Menschenrassen [Ausstellung Deutsches Hygiene-Museum, Dresden, 19.05.2018–06.01.2019], Göttingen 2018, S. 68–69.
 
 Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.
+
+[[block:start]]
+
+[[external:start]]
