@@ -4,23 +4,23 @@ slug: "von_der_theorie_in_die_praxis"
 order: 120
 color: "default"
 toc:
-   level: 2
+  - level: 2
     title: "Was ist Rassismus?"
-   level: 3
+  - level: 3
     title: "Rassismus auf der individuellen Ebene"
-   level: 3
+  - level: 3
     title: "Struktureller Rassismus"
-   level: 2
+  - level: 2
     title: "Wie weiter in der Praxis?"
-   level: 3
+  - level: 3
     title: "Verborgene Rassismen in der Datenbank"
-   level: 3
+  - level: 3
     title: "Selbstreflexion der individuellen Prägung"
-   level: 3
+  - level: 3
     title: "Wer dokumentiert was/wen/wessen Geschichte?"
-   level: 3
+  - level: 3
     title: "Selbstverständlichkeit der Verschlagwortung"
-   level: 3
+  - level: 3
     title: "Denkanstoss: Institutionelle Positionierung"
 ---
 

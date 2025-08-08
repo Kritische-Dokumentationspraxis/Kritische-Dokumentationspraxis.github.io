@@ -4,23 +4,23 @@ slug: "glossar"
 order: 300
 color: "default"
 toc:
-   level: 2
+  - level: 2
     title: "Community und Herkunftsgesellschaft"
-   level: 2
+  - level: 2
     title: "«rassifizierte Communities»"
-   level: 2
+  - level: 2
     title: "Dekolonialisierung und Dekolonialismus"
-   level: 2
+  - level: 2
     title: "Postkolonialismus und Postkoloniale Studien"
-   level: 2
+  - level: 2
     title: "Indigen"
-   level: 2
+  - level: 2
     title: "Exotismus / exotisierend"
-   level: 2
+  - level: 2
     title: "Objekt"
-   level: 2
+  - level: 2
     title: "Schwarz / weiss"
-   level: 2
+  - level: 2
     title: "Selbstbezeichnung und Fremdzuschreibung"
 ---
 

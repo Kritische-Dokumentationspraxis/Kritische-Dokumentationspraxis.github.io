@@ -4,31 +4,31 @@ slug: "interne_verwendung_von_daten_und_aufbereitung_zur_veröffentlichung"
 order: 180
 color: "default"
 toc:
-   level: 2
+  - level: 2
     title: "Sammlungsdatenbanken"
-   level: 3
+  - level: 3
     title: "Beschreibung"
-   level: 3
+  - level: 3
     title: "Bezeichnung, Titel"
-   level: 3
+  - level: 3
     title: "Schlagwörter, Keywords"
-   level: 3
+  - level: 3
     title: "Inschriften, Beschriftung, Signaturen"
-   level: 3
+  - level: 3
     title: "Klassifikation, Gattung, Objektart, Objekttyp"
-   level: 3
+  - level: 3
     title: "Provenienz"
-   level: 2
+  - level: 2
     title: "Metadaten in OnlineSammlungen: 5 Ansätze"
-   level: 3
+  - level: 3
     title: "1 Titel als diskriminierend markieren"
-   level: 3
+  - level: 3
     title: "2 Sensible Begriffe/Abbildungen ausblenden"
-   level: 3
+  - level: 3
     title: "3 Titel neu formulieren"
-   level: 3
+  - level: 3
     title: "4 Individuelle Inhaltswarnungen"
-   level: 3
+  - level: 3
     title: "5 Allgemeine Inhaltswarnung für die gesamte Sammlung"
 ---
 

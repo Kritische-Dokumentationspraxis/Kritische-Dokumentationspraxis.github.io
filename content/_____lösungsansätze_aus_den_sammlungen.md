@@ -1,32 +1,32 @@
 ---
-title: "**Lösungsansätze aus den Sammlungen**"
+title: "Lösungsansätze aus den Sammlungen"
 slug: "lösungsansätze_aus_den_sammlungen"
 order: 240
 color: "default"
 toc:
-   level: 2
+  - level: 2
     title: "Fallbeispiel 1"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 2"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 3"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 4"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 5"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 6"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 7"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 8"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 9"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 10"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 11"
-   level: 2
+  - level: 2
     title: "Fallbeispiel 12"
 ---
 
