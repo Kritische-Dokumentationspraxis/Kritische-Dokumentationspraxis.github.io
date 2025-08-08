@@ -142,7 +142,7 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 * Allenfalls Glossar aufsetzen/Hyperlinks zum Glossar implementieren.
 * Anpassungen im Frontend der Online-Sammlung
 
-![](data:image/png;base64...)
+![](/images/image002.jpg)
 
 ### (2) Sensible Begriffe/Abbildungen ausblenden
 
@@ -161,7 +161,7 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 * Anpassungen im Frontend der Online-Sammlung
 * Definition von Kriterien für Platzhalter
 
-![](data:image/png;base64...)![](data:image/png;base64...)
+![](/images/image003.jpg)![](/images/image004.jpg)
 
 ### (3) Titel neu formulieren
 
@@ -182,7 +182,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
   + ob der Titel von der:dem Kunstschaffenden historisch belegt oder nachträglich vergeben wurde
   + zur Definierung eines neuen, deskriptiven Titels.
 
-![](data:image/png;base64...)
+![](/images/image005.jpg)
 
 ### (4) Individuelle Inhaltswarnungen
 
@@ -202,9 +202,9 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 * Definition von Kriterien für Warnungen
 * Erstellung begleitender Erläuterungen
 
-![](data:image/png;base64...)![](data:image/png;base64...)
+![](/images/image006.jpg)![](/images/image007.jpg)
 
-![](data:image/png;base64...)
+![](/images/image008.jpg)
 
 ### (5) Allgemeine Inhaltswarnung für die gesamte Sammlung
 
@@ -223,7 +223,7 @@ Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der 
 * Anpassungen im Frontend der Online-Sammlung
 * Formulierung einer allgemeinen Warnung
 
-![](data:image/png;base64...)
+![](/images/image009.jpg)
 
 **Zusammenfassung:**
 
