@@ -60,7 +60,7 @@ Europeana (Hg.): DE-BIAS - Detecting and cur(at)ing harmful language in cultural
 
 National Museum of World Cultures (Hg.): Words Matter – An Unfinished Guide to Word Choices in the Cultural Sector, <<https://amsterdam.wereldmuseum.nl/en/about-wereldmuseum-amsterdam/research/words-matter-publication>>, Stand: 20.05.2025.
 
-[[blockEnd]]
+[[block:end]]
 
 ## Eckpfeiler und Rahmenbedingungen des Handbuchs
 
