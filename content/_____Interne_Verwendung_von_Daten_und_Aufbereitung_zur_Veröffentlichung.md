@@ -126,11 +126,15 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 **Beispiele**: [Salzburg Museum](https://sammlung-online.salzburgmuseum.at/detail/collection/7ca07286-c816-4a0f-a248-b8a461213f9b)[[139]](#footnote-140) mit [Glossar](https://sammlung-online.salzburgmuseum.at/problematische_objekte/glossar)[[140]](#footnote-141) | [Museum Ludwig](https://museum-ludwig.kulturelles-erbe-koeln.de/documents/obj/05010464)[[141]](#footnote-142)
 
+[[pros-cons:start]]
+
 **Vor- und Nachteile**:
 
 |  |  |
 | --- | --- |
 | + Erkennbar als problematischer Begriff  + Bewahrt den historischen Titel für Transparenz und wissenschaftliche Nachvollziehbarkeit  + Relativ einfach umsetzbar | - Problematische Begriffe bleiben sichtbar, was zu Verletzungen oder Verstörungen führt  - Je nach Umsetzung fehlt eine begleitende Erklärung: der Titel ist markiert, aber den Nutzer:innen möglicherweise unklar, weswegen |
+
+[[pros-cons:end]]
 
 **To-do**:
 
