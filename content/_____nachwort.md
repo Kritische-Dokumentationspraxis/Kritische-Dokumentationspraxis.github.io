@@ -1,6 +1,6 @@
 ---
 title: "Nachwort"
-slug: "Nachwort"
+slug: "nachwort"
 order: 320
 color: "default"
 toc:

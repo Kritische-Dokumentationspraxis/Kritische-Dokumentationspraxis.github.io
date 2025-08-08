@@ -1,14 +1,14 @@
 ---
 title: "Editorial"
-slug: "Editorial"
+slug: "editorial"
 order: 60
 color: "default"
 toc:
-  - level: 2
+   level: 2
     title: "Eckpfeiler und Rahmenbedingungen des Handbuchs"
-  - level: 2
+   level: 2
     title: "Die Arbeitsgruppe"
-  - level: 2
+   level: 2
     title: "Einblick in die aktuelle Debatte"
 ---
 

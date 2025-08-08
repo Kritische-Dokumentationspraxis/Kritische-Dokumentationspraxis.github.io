@@ -1,6 +1,6 @@
 ---
 title: "Bibliografie"
-slug: "Bibliografie"
+slug: "bibliografie"
 order: 340
 color: "default"
 toc:

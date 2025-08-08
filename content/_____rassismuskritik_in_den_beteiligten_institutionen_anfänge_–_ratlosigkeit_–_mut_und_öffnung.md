@@ -1,6 +1,6 @@
 ---
 title: "Rassismuskritik in den beteiligten Institutionen: Anfänge – Ratlosigkeit – Mut und Öffnung"
-slug: "Rassismuskritik_in_den_beteiligten_Institutionen_Anfänge_–_Ratlosigkeit_–_Mut_und_Öffnung"
+slug: "rassismuskritik_in_den_beteiligten_institutionen_anfänge_–_ratlosigkeit_–_mut_und_öffnung"
 order: 200
 color: "default"
 toc:

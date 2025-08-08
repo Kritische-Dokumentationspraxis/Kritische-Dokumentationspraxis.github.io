@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-slug: "Impressum"
+slug: "impressum"
 order: 360
 color: "default"
 toc:

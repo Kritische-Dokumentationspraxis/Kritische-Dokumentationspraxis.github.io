@@ -1,6 +1,6 @@
 ---
 title: "Sammlungen und Museen als koloniale Wissensspeicher"
-slug: "Sammlungen_und_Museen_als_koloniale_Wissensspeicher"
+slug: "sammlungen_und_museen_als_koloniale_wissensspeicher"
 order: 100
 color: "default"
 toc:

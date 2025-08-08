@@ -1,6 +1,6 @@
 ---
-title: "Communities, Sammlungen, und Sorgfalt (WIP)"
-slug: "Communities,_Sammlungen,_und_Sorgfalt_(WIP)"
+title: "Communities, Sammlungen, und Sorgfalt WIP"
+slug: "communities,_sammlungen,_und_sorgfalt_(wip)"
 order: 140
 color: "default"
 toc:

@@ -1,35 +1,35 @@
 ---
 title: "Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung"
-slug: "Interne_Verwendung_von_Daten_und_Aufbereitung_zur_Veröffentlichung"
+slug: "interne_verwendung_von_daten_und_aufbereitung_zur_veröffentlichung"
 order: 180
 color: "default"
 toc:
-  - level: 2
+   level: 2
     title: "Sammlungsdatenbanken"
-  - level: 3
+   level: 3
     title: "Beschreibung"
-  - level: 3
+   level: 3
     title: "Bezeichnung, Titel"
-  - level: 3
+   level: 3
     title: "Schlagwörter, Keywords"
-  - level: 3
+   level: 3
     title: "Inschriften, Beschriftung, Signaturen"
-  - level: 3
+   level: 3
     title: "Klassifikation, Gattung, Objektart, Objekttyp"
-  - level: 3
+   level: 3
     title: "Provenienz"
-  - level: 2
-    title: "Metadaten in Online-Sammlungen: 5 Ansätze"
-  - level: 3
-    title: "(1) Titel als diskriminierend markieren"
-  - level: 3
-    title: "(2) Sensible Begriffe/Abbildungen ausblenden"
-  - level: 3
-    title: "(3) Titel neu formulieren"
-  - level: 3
-    title: "(4) Individuelle Inhaltswarnungen"
-  - level: 3
-    title: "(5) Allgemeine Inhaltswarnung für die gesamte Sammlung"
+   level: 2
+    title: "Metadaten in OnlineSammlungen: 5 Ansätze"
+   level: 3
+    title: "1 Titel als diskriminierend markieren"
+   level: 3
+    title: "2 Sensible Begriffe/Abbildungen ausblenden"
+   level: 3
+    title: "3 Titel neu formulieren"
+   level: 3
+    title: "4 Individuelle Inhaltswarnungen"
+   level: 3
+    title: "5 Allgemeine Inhaltswarnung für die gesamte Sammlung"
 ---
 
 Informationen, die als Metadaten[[132]](#footnote-133) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet. So zum Beispiel bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[133]](#footnote-134) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.
