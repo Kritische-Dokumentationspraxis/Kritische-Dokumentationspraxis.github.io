@@ -206,6 +206,6 @@ Wernsing, Susanne; Geulen, Christian; Vogel, Klaus (Hg.): Rassismus. Die Erfindu
 
 Wilde, Denise: Dinge sammeln. Annäherungen an eine Kulturtechnik, Bielefeld 2015.
 
-[[block:start]]
+[[block:end]]
 
-[[external:start]]
+[[external:end]]
