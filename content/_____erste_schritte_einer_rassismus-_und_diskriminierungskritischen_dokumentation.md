@@ -42,9 +42,17 @@ Wenn struktureller Rassismus in einer Institution oder Organisation und ihrer Ku
 
 ![](/images/image002.jpg)
 
-|  |
-| --- |
-| **Weiterführende Literatur[[19]](#footnote-20)**   * Koller, Christian: Rassismus, Paderborn 2009 * Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d). * Hund, Wulf D.: Rassimus, Bielefeld 2007 * El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021 * Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: https://www.frb.admin.ch/de/publikationen |
+[[start:block]]
+
+**Weiterführende Literatur[[19]](#footnote-20)**
+
+* Koller, Christian: Rassismus, Paderborn 2009
+* Mugglin, Leonie, Efionayi, Denise, Ruedin, Didier u. a.: Grundlagenstudie zu strukturellem Rassismus in der Schweiz, Neuchâtel, 2022 (SFM Studies #81d).
+* Hund, Wulf D.: Rassimus, Bielefeld 2007
+* El-Mafaalani, Aladin: Wozu Rassismus? Von der Erfindung der Menschenrassen bis zum rassismuskritischen Widerstand, Köln 2021
+* Siehe hierzu auch die Publikationen der Fachstelle für Rassismusbekämpfung: FRB der Schweizerischen Eidgenossenschaft: <https://www.frb.admin.ch/de/publikationen>
+
+[[end:block]]
 
 ## ****Wie weiter in der Praxis?****
 
@@ -68,9 +76,16 @@ Folgende exemplarische Fragen können dabei helfen, einen Reflexionsprozess anzu
 * Mit welchen Stereotypen war ich während meiner Schulzeit, in der Ausbildung sowie im Privatleben konfrontiert? Und inwiefern haben diese mein Handeln und Denken beeinflusst?
 * Wie positioniere ich mich politisch und beeinflusst meine politische Positionierung meine Dokumentationspraxis?
 
-|  |
-| --- |
-| **Weiterführende Literatur**   * Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023 * Arnold, Rick u. a.: Educating for a change, Toronto 1991 * Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022 * Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021 * Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018 |
+[[start:block]]
+
+* **Weiterführende Literatur**
+* Apraku, Josephine: Mein Workbook zu Rassimus. Für eine alltägliche und tiefgehende Auseinandersetzung, Berlin 2023
+* Arnold, Rick u. a.: Educating for a change, Toronto 1991
+* Kendi, Ibram X.: Antirassistisch Handeln. Ein Arbeitsbuch, München 2022
+* Amjahid, Mohamed: Der weisse Fleck. Eine Anleitung zu antirassistischem Denken, München 2021
+* Ogette, Tupoka: exit RACISM. Rassismuskritisch denken lernen, Münster 2018
+
+[[end:block]]
 
 ### Wer dokumentiert was/wen/wessen Geschichte?
 
