@@ -1,3 +1,9 @@
+---
+title: "Vorwort"
+slug: "vorwort"
+order: 0
+---
+
 Vorwort
 
 In den letzten Jahren nahmen die politische Polarisierung und die gesellschaftlichen Diskussionen über Migration, kulturelle Vielfalt und Rassismus weiter zu. Dies verlieh auch der Auseinandersetzung mit entsprechenden Fragestellungen in den Schweizer Gedächtnisinstitutionen einen Schub: Wie gehen wir als Institution(en) zusammen mit unseren Mitarbeitenden mit diesen Themen um? Welche Haltung nehmen wir zu Diskriminierung und Krieg ein und sind wir bereit, dies öffentlich zu kommunizieren? Auf welche Art fördern wir die Teilhabe diverser Gruppen der Gesellschaft? Wie können wir unsere Ausstellungs- und Vermittlungspraxis kritisch reflektieren und unsere Sammlungen dekolonisieren? Kurz: Welche gesellschaftliche Verantwortung kommt uns als Gedächtnisinstitutionen zu?
