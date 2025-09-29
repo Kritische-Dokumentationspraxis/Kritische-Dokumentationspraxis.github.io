@@ -6,34 +6,34 @@ index: 9
 color: "default"
 toc:
   - level: 2
-    title: "Fallbeispiel 1"
+    title: "10.1 Fallbeispiel 1"
   - level: 2
-    title: "Fallbeispiel 2"
+    title: "10.2 Fallbeispiel 2"
   - level: 2
-    title: "Fallbeispiel 3"
+    title: "10.3 Fallbeispiel 3"
   - level: 2
-    title: "Fallbeispiel 4"
+    title: "10.4 Fallbeispiel 4"
   - level: 2
-    title: "Fallbeispiel 5"
+    title: "10.5 Fallbeispiel 5"
   - level: 2
-    title: "Fallbeispiel 6"
+    title: "10.6 Fallbeispiel 6"
   - level: 2
-    title: "Fallbeispiel 7"
+    title: "10.7 Fallbeispiel 7"
   - level: 2
-    title: "Fallbeispiel 8"
+    title: "10.8 Fallbeispiel 8"
   - level: 2
-    title: "Fallbeispiel 9"
+    title: "10.9 Fallbeispiel 9"
   - level: 2
-    title: "Fallbeispiel 10"
+    title: "10.10 Fallbeispiel 10"
   - level: 2
-    title: "Fallbeispiel 11"
+    title: "10.11 Fallbeispiel 11"
   - level: 2
-    title: "Fallbeispiel 12"
+    title: "10.12 Fallbeispiel 12"
 ---
 
 Inhaltshinweis: Aufgrund der fachlichen Beschäftigung mit konkreten Beispielen werden in den folgenden Abschnitten rassistische Begriffe und Bilder reproduziert.[[176]](#footnote-177) Die Beispiele aus den Institutionen bilden die Recherchen, teilweise auch Diskussionen und Prozesse ab, die zu den Entscheidungen bezüglich der Eingriffe in die Datensätze führten. Diese werden jeweils unter dem «Kontext» beschrieben.
 
-## Fallbeispiel 1
+## 10.1 Fallbeispiel 1
 
 ![](/images/image019.jpg)
 
@@ -93,7 +93,7 @@ Das Objekt wird mit den Inhaltshinweisen «Rassifizierung» und dem Schlagwort �
 
 Das Objekt ist aktuell nicht für die Präsentation in der Sammlung Online[[183]](#footnote-184) freigeschaltet.
 
-## Fallbeispiel 2
+## 10.2 Fallbeispiel 2
 
 ![](/images/image020.jpg)
 
@@ -137,7 +137,7 @@ Erfassung des historischen Kontexts/Problematik:
 
 Im Datenbankfeld Forschung wird der Kontext/die Problematik zum Objekt erläutert (s.o. Kontext) und der ursprünglich verwendete Titel festgehalten.
 
-## **Fallbeispiel** 3
+## 10.3 **Fallbeispiel** 3
 
 ![](/images/image021.jpg)
 
@@ -201,7 +201,7 @@ Für die Präsentation des Objekts in der Sammlung Online nach der Überarbeitun
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
-## **Fallbeispiel** 4
+## 10.4 **Fallbeispiel** 4
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-15992_LM-43897.jpg](/images/image023.jpg)
 
@@ -261,7 +261,7 @@ Das Objekt wird mit den Inhaltshinweisen «Rassismus» und «abwertende Sprache�
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
-## **Fallbeispiel** 5
+## 10.5 **Fallbeispiel** 5
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-23861_LM-140862.jpg](/images/image024.jpg)
 
@@ -315,7 +315,7 @@ Das Objekt wird mit den Inhaltshinweisen «Stereotyp», «Warenrassismus», «Ra
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
-## **Fallbeispiel** 6
+## 10.6 **Fallbeispiel** 6
 
 ![](/images/image025.jpg)
 
@@ -352,7 +352,7 @@ Bei diesem Objekt ist zu überlegen, ob diesem Objekt oder einer Gruppe von Obje
 
 Das Objekt ist, verknüpft mit dem Haupteintrag und den übrigen Teilobjekten, in der «Sammlung digital» aufgeschaltet: <https://digital.skkg.ch/object/f3cf5ff1-7848-4925-822e-d3e9610da749>
 
-## **Fallbeispiel** 7
+## 10.7 **Fallbeispiel** 7
 
 ![](/images/image027.jpg)
 
@@ -398,7 +398,7 @@ Erfassung des historischen Kontexts/Problematik:
 
 Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s.o. Kontext) und der ursprünglich verwendete Titel festgehalten.
 
-## **Fallbeispiel** 8
+## 10.8 **Fallbeispiel** 8
 
 ![Ein Bild, das Menschliches Gesicht enthält.  Automatisch generierte Beschreibung](/images/image028.jpg)
 
@@ -474,7 +474,7 @@ Deklaration als rassistisches Objekt
 
 Das Objekt wird mit den Keywords «Rassismus» und «Blackfacing» verschlagwortet. Zudem wir der Objektstatus angepasst. Der Objektstatus wird auf «**Zu Prüfen (Diskriminierung/Sensible Bildinhalte)» gewechselt.** Damit wird der rassistische Bildinhalt intern zur Prüfung gegeben und vorübergehend offline genommen. Ob und wie sensible Bildinhalte in der Online-Datenbank künftig sichtbar und zugänglich sein sollen, wird gegenwärtig intern diskutiert.
 
-## **Fallbeispiel** 9
+## 10.9 **Fallbeispiel** 9
 
 ![](/images/image029.jpg)
 
@@ -520,7 +520,7 @@ Erfassung des historischen Kontexts/Problematik:
 
 Im Datenbankfeld Forschung wird der Kontext/Problematik zum Objekt erläutert (s.o. Kontext) und der ursprünglich verwendete Titel festgehalten.
 
-## **Fallbeispiel** 10
+## 10.10 **Fallbeispiel** 10
 
 ![](/images/image030.jpg)
 
@@ -578,7 +578,7 @@ Auf Ebene der Sprache werden kolonial-rassistische Terminologien reproduziert. D
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
-## **Fallbeispiel** 11
+## 10.11 **Fallbeispiel** 11
 
 ![P:\03 Andere\2021_Datenbankbereinigungen\Diskriminierungssensible Sprache\Handreichungen\Diversität und Datenbank_Glossar SNM\Glossar SNM Bilder\DIG-68112_LM-69377.jpg](/images/image031.jpg)
 
@@ -634,7 +634,7 @@ Das Objekt wird mit den Inhaltshinweisen «Rassismus, abwertende Sprache» marki
 
 Das Objekt ist aus den in Fussnote 8 dieses Kapitels angemerkten Gründen aktuell nicht für die Präsentation in der Sammlung Online freigeschaltet.
 
-## **Fallbeispiel** 12
+## 10.12 **Fallbeispiel** 12
 
 ![Ein Bild, das Kleidung, draußen, Menschliches Gesicht, Person enthält.  Automatisch generierte Beschreibung](/images/image032.jpg)
 

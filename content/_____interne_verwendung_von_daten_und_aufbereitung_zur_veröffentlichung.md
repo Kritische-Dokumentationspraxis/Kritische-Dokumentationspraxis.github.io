@@ -6,38 +6,38 @@ index: 6
 color: "default"
 toc:
   - level: 2
-    title: "Sammlungsdatenbanken"
+    title: "7.1 Sammlungsdatenbanken"
   - level: 3
-    title: "Beschreibung"
+    title: "7.1.1 Beschreibung"
   - level: 3
-    title: "Bezeichnung, Titel"
+    title: "7.1.2 Bezeichnung, Titel"
   - level: 3
-    title: "Schlagwörter, Keywords"
+    title: "7.1.3 Schlagwörter, Keywords"
   - level: 3
-    title: "Inschriften, Beschriftung, Signaturen"
+    title: "7.1.4 Inschriften, Beschriftung, Signaturen"
   - level: 3
-    title: "Klassifikation, Gattung, Objektart, Objekttyp"
+    title: "7.1.5 Klassifikation, Gattung, Objektart, Objekttyp"
   - level: 3
-    title: "Provenienz"
+    title: "7.1.6 Provenienz"
   - level: 2
-    title: "Metadaten in OnlineSammlungen: 5 Ansätze"
+    title: "7.2 Metadaten in OnlineSammlungen: 5 Ansätze"
   - level: 3
-    title: "1 Titel als diskriminierend markieren"
+    title: "7.2.1 1 Titel als diskriminierend markieren"
   - level: 3
-    title: "2 Sensible Begriffe/Abbildungen ausblenden"
+    title: "7.2.2 2 Sensible Begriffe/Abbildungen ausblenden"
   - level: 3
-    title: "3 Titel neu formulieren"
+    title: "7.2.3 3 Titel neu formulieren"
   - level: 3
-    title: "4 Individuelle Inhaltswarnungen"
+    title: "7.2.4 4 Individuelle Inhaltswarnungen"
   - level: 3
-    title: "5 Allgemeine Inhaltswarnung für die gesamte Sammlung"
+    title: "7.2.5 5 Allgemeine Inhaltswarnung für die gesamte Sammlung"
 ---
 
 Informationen, die als Metadaten[[140]](#footnote-141) in eine interne Datenbank eingegeben werden, werden zu unterschiedlichen Zwecken wiederverwendet. So zum Beispiel bei Ausstellungsprojekten in Legenden, in Datenblättern für Leihgaben für die Präsentation der Objekte in den Online-Sammlungen, in der Vermittlung oder in Marketing und Kommunikation. Gerade die Präsentation von Objekten in Online-Sammlungen wird heute zunehmend kritisch betrachtet.[[141]](#footnote-142) Meistens wird in der internen Datenbank darüber entschieden, inwiefern gewisse Inhalte für Externe reguliert werden, zum Beispiel durch Inhaltswarnungen oder -hinweisen, oder ob sie frei zugänglich sind. Folglich hat die interne Überarbeitung in der Datenbank meist direkte Auswirkungen auf die Onlinepräsentation oder die Datenbank wird als Kontrollinstrument genutzt, um zu bestimmen, welche Inhalte und Objekte online einem breiten Publikum zur Verfügung stehen und welche nicht.
 
 Um zu entscheiden, welche Inhalte für eine Überarbeitung in Frage kommen, muss ein Bewusstsein darüber geschaffen werden, auf welchen Feldern Rassismen reproduziert werden. Danach muss der Entscheid fallen, ob und wie diese nach aussen vermittelt werden. Die folgenden Kapitel geben dazu einen Überblick.
 
-## Sammlungsdatenbanken
+## 7.1 Sammlungsdatenbanken
 
 Sammlungs- und (Objekt-)Management-Datenbanken enthalten umfangreiche Informationen zu Sammlungsobjekten. Viele Datensätze wurden oftmals vor längerer Zeit erstellt – teilweise in gross angelegten Digitalisierungs- und Erschliessungsprojekten –, sodass sie den aktuellen Erschliessungsstandards nicht mehr genügen und überprüft und überarbeitet werden müssen. Die Einträge enthalten nicht nur möglichst objektive Beschreibungen von materiellen Gegenständen, sondern in der Dokumentation schlagen sich auch zeitgebundene Sichtweisen, Narrative und Ideologien nieder. Die darin eingebundenen Wertvorstellungen sind teilweise überholt, zudem hat sich und der wissenschaftliche Diskurs verändert sich kontinuierlich. Oft hat die Sammlungsarbeit und Forschung zu neuen Erkenntnissen geführt, die in älteren Datensätzen nicht berücksichtigt sind.[[142]](#footnote-143) Bei der Analyse einer Datenbank unter dem Anspruch einer Dekolonialisierung wird offensichtlich, dass gewisse Datenbankfelder stärker zur Reproduktion von Rassismen und Diskriminierungen beitragen als andere.
 
@@ -56,7 +56,7 @@ Da Datenbankfelder mit ähnlichen Funktionen und Inhalten in verschiedenen Insti
 | Klassifikation, Gattung, Objektart, Objekttyp | Einordnung und Kategorisierung des Objekts in eine Gruppe von Objekten (oft mit einer hinterlegten Auswahl in einem Thesaurus) |
 | Bereich, Bestand, Sammlung | Einordnung und Kategorisierung des Objekts in die Sammlung der Institution. |
 
-### Beschreibung
+### 7.1.1 Beschreibung
 
 Die Objektbeschreibung umfasst den Gebrauch, technische oder ästhetische Merkmale oder den Inhalt eines Objekts. Objektbeschreibungen auf Grundlage subjektiver Bewertungen von Kurator:innen. Sind rassistische Sprache oder koloniale Narrative Teil der Objektbeschreibung, hat dies meistens einen der folgenden Ursachen:
 
@@ -66,11 +66,11 @@ Die Objektbeschreibung umfasst den Gebrauch, technische oder ästhetische Merkma
 * Bei vielen Objekten kann der Ursprung der Beschreibung nicht zurückverfolgt werden. Sie wurden durch eine nicht nachgewiesene Autoren:innenschaft (meistens ehemalige Angestellte der Institution) vergeben.
 * Der:dem Kurator:in ist nicht bewusst (schlimmer noch: sie:er macht das absichtlich), dass sie:er rassistische Sprache oder koloniale Narrative verwendet.
 
-### Bezeichnung, Titel
+### 7.1.2 Bezeichnung, Titel
 
 Als Bezeichnung oder Titel gilt in der Regel eine Bezeichnung des Objekts, die von einer eindeutigen Autor:innenschaft oder Quelle (Inventarbuch, Nachweisakte, Karteikarteneintrag, Kaufvertrag, Werkverzeichnis o.ä.) stammt. Rassistische Begriffe oder Zuschreibungen finden durch die von den Künstler:innen, Auktionshäusern, Käufer:innen oder Hersteller:innen oder durch Mitarbeiter:innen einer Institution vergebenen Titel der Objekte Eingang in die Metadaten. In Bezeichnungen und Titeln, die aus diesen Quellen oder Herkünften entspringen, werden diese Begriffe in Datenbank oftmals reproduziert.
 
-### Schlagwörter, Keywords
+### 7.1.3 Schlagwörter, Keywords
 
 Schlagwörter ordnen Objekte in Bezug auf ihren Inhalt oder ihren Nutzen kategorisch ein. Schlagwörter an sich können rassistisch sein. Bei manchen Datensätzen fehlt in der Verschlagwortung jegliche kritische Auseinandersetzung mit der Bildaussage oder dem Gebrauch des Objekts. Zugewiesene Schlagwörter können die Realität verzerren, simplifizieren oder eurozentrische Perspektiven reproduzieren. Schlagwörter stehen somit oft in Verbindung mit:
 
@@ -81,21 +81,21 @@ Schlagwörter ordnen Objekte in Bezug auf ihren Inhalt oder ihren Nutzen kategor
 
 Grundsätzlich bildet die Verschlagwortung von Hautfarben oder ethnischen Zugehörigkeiten ein Problem. Die Kennzeichnung dieser Distinktionsmerkmale führt automatisch zu Asymmetrien. Diese Asymmetrien befinden sich in einem permanenten historischen und sozialen Wandel und Aushandlungsprozess. Was in der Vergangenheit als Norm definiert wurde – und was sich davon abhob, trifft heute oder in Zukunft vielleicht nicht mehr zu. In diesem Bewusstsein ist abzuwägen, in welchen Fällen es sinnvoll ist, eine Distinktion nach diesen Merkmalen festzuhalten.
 
-### Inschriften, Beschriftung, Signaturen
+### 7.1.4 Inschriften, Beschriftung, Signaturen
 
 Manche Datensätze weisen rassistische oder diskriminierende Sprache auf, weil objektimmanente Inschriften übernommen wurden. So zum Beispiel bei Plakaten und Reklamen mit Werbeinschriften, Schallplatten mit Albentiteln, Buchtiteln oder Textelementen bei (Druck)Graphiken[[144]](#footnote-145). Weiter kann diese Reproduktion auch dann eintreten, wenn der:die Künstler:in den Titel auf die Gemälderückseite geschrieben hat und dieser (z.B. zusammen mit der ggf. ebenfalls dort festgehaltenen Signatur) in diesem Feld wörtlich wiedergegeben wird.
 
-### Klassifikation, Gattung, Objektart, Objekttyp
+### 7.1.5 Klassifikation, Gattung, Objektart, Objekttyp
 
 Die Beurteilung von Klassifikationen, Objektarten und Gattungen von kultur- und kunsthistorischen Objekten gestaltet sich wie bei anderen Sammlungen immer im Spannungsfeld von Macht und Wissen. Die Klassifikation, Gattung, Objektart usw. beurteilen, wo und wie die Objekte in den Sammlungen katalogisiert und untereinander hierarchisiert werden, und legen eine Deutung/Interpretation der Objekte in einem gewissen (kulturellen, geografischen, kunsthistorischen, historischen, politischen) Kontext fest. Das heisst, dass Klassifikationen in kultur- und kunsthistorischen Sammlungen auch Rassismen reproduzieren können, da die Begrifflichkeiten rassistisch oder aus heutiger Sicht diskriminierend sind, oder das Objekt aus einer simplifizierten Perspektive einordnen, die eine ‹andere› Lesart des Objekts fast verunmöglicht.
 
-### Provenienz
+### 7.1.6 Provenienz
 
 In manchen Datensätzen werden weder rassistische Bildtraditionen noch Sprache reproduziert. Ein Objekt kann jedoch durch seine Herkunft oder Herstellung in koloniale Kontexte verstrickt sein. Das können zoologische, anthropologische und botanische Sammlungen sein, Artefakte nichtwestlicher Kulturen, Fotografien oder Schriften sein und damit können so ziemlich alle Museen und Sammlungen – unabhängig von ihrer Grösse und Reichweite – davon betroffen sein. [[145]](#footnote-146)
 
 Diese kolonialen Verstrickungen können durch die Offenlegung der Provenienz in den Datensätzen angezeigt werden. Die Provenienzen von Objekten werden in diesem Handbuch nicht explizit besprochen. Sich dennoch mit der Dokumentation von kolonialen Provenienzen zu beschäftigen, ist aus der Sicht der AG eine wichtige Aufgabe von Kultur- und Sammlungsinstitutionen. Diese Objekte stammen oft aus Unrechtskontexten, wurden geraubt und ihrem Zweck und ihrer kulturellen Einbettung entzogen. Die Lücken, die durch die (gewaltvolle) Entnahme dieser Objekte in die Gesellschaften gerissen wurden, sind irreparabel. Die Restitution bleibt jedoch in jedem Fall die einzige Möglichkeit, um dieses Unrecht zumindest anzuerkennen. In der Schweiz fördert der «Schweizerische Arbeitskreis Provenienzforschung»[[146]](#footnote-147) als spezialisierte Arbeitsgruppe den Austausch und die Vernetzung unter Provenienzforschenden und sollte deshalb als Anlaufstelle für einen fundierten Wissenstransfer genutzt werden.
 
-## Metadaten in Online-Sammlungen: 5 Ansätze
+## 7.2 Metadaten in Online-Sammlungen: 5 Ansätze
 
 Heute dienen Datenbanken längst nicht mehr nur dem internen Archivierungs-, Dokumentations- und Sammlungsverwaltung. Die enthaltenen Daten bilden die Grundlage für die Onlinepräsentation von Sammlungen. Mit der Veröffentlichung der Sammlungsdokumentation erschliessen sich weitere Dimensionen in Bezug auf Rassismussensibilität. Die Institutionen beschäftigen sich zunehmend damit, welche Metadaten sie in welcher Art einer breiten Öffentlichkeit online zur Verfügung stellen. Somit hängt die rassismuskritische Überarbeitung von Datensätzen in der internen Datenbank oft auch von Entscheidungen zur Onlinepräsentation ab.
 
@@ -121,7 +121,7 @@ Diese Änderungen erfordern in der Regel eine Zusammenarbeit mit Web-Entwickler:
 
 Die Online-Sammlungen der hier angeführten Beispiele wurden zuletzt am 17. März 2025 überprüft.
 
-### (1) Titel als diskriminierend markieren
+### 7.2.1 (1) Titel als diskriminierend markieren
 
 Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinzugefügt, z. B.: «[Problematischer Titel]\*». Ergänzend kann eine Stellungnahme oder ein Verweis auf ein Glossar erfolgen.
 
@@ -141,7 +141,7 @@ Ein Asterisk (\*) oder ein Schlüsselbegriff wird dem ursprünglichen Titel hinz
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8AD1FCAE.tmp](/images/image008.jpg)
 
-### (2) Sensible Begriffe/Abbildungen ausblenden
+### 7.2.2 (2) Sensible Begriffe/Abbildungen ausblenden
 
 Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingefügt oder Abbildungen werden unscharf dargestellt oder weggelassen.
 
@@ -161,7 +161,7 @@ Anstelle problematischer Begriffe wird ein Platzhalter (z. B. «\*\*\*») eingef
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\397BCEC.tmp](/images/image009.jpg)
  ![](/images/image010.jpg)
 
-### (3) Titel neu formulieren
+### 7.2.3 (3) Titel neu formulieren
 
 Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezeichnungen ersetzt.
 
@@ -182,7 +182,7 @@ Problematische Titel werden überarbeitet und durch sachlich beschreibende Bezei
 
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\6EC9EDDA.tmp](/images/image011.jpg)
 
-### (4) Individuelle Inhaltswarnungen
+### 7.2.4 (4) Individuelle Inhaltswarnungen
 
 Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Anklicken erscheinen der Originaltitel, eine Warnung und eine Begriffserklärung.
 
@@ -203,7 +203,7 @@ Vorschaubilder oder Titel werden in der Übersicht unkenntlich gemacht. Beim Ank
 ![](/images/image012.jpg) ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\5291C2F8.tmp](/images/image013.jpg)
 ![C:\Users\snmchug\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\D2A43BC6.tmp](/images/image014.jpg)
 
-### (5) Allgemeine Inhaltswarnung für die gesamte Sammlung
+### 7.2.5 (5) Allgemeine Inhaltswarnung für die gesamte Sammlung
 
 Eine pauschale Warnung zu möglicherweise problematischen Inhalten wird auf der Startseite oder in der Objektansicht eingefügt.
 

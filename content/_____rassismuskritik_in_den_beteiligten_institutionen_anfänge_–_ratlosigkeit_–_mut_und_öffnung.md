@@ -6,24 +6,24 @@ index: 7
 color: "default"
 toc:
   - level: 2
-    title: "Bernisches Historisches Museum"
+    title: "8.1 Bernisches Historisches Museum"
   - level: 2
-    title: "ETHBibliothek, ETH Zürich"
+    title: "8.2 ETHBibliothek, ETH Zürich"
   - level: 2
-    title: "Fotostiftung Schweiz"
+    title: "8.3 Fotostiftung Schweiz"
   - level: 2
-    title: "Historisches Museum Basel"
+    title: "8.4 Historisches Museum Basel"
   - level: 2
-    title: "Museum für Kommunikation"
+    title: "8.5 Museum für Kommunikation"
   - level: 2
-    title: "Schweizerisches Nationalmuseum"
+    title: "8.6 Schweizerisches Nationalmuseum"
   - level: 2
-    title: "Stiftung für Kunst, Kultur und Geschichte"
+    title: "8.7 Stiftung für Kunst, Kultur und Geschichte"
   - level: 2
-    title: "Kunsthaus"
+    title: "8.8 Kunsthaus"
 ---
 
-## Bernisches Historisches Museum
+## 8.1 Bernisches Historisches Museum
 
 Beeinflusst von internationalen Bewegungen wie «Black Lives Matter» und einem zunehmend breit geführten Diskurs um Dekolonisierung und strukturellen Rassismus werden vermeintlich unveränderbare, hegemoniale Strukturen in Gesellschaft, Politik und Wissenschaft kritisiert und hinterfragt. Diese komplexen Debatten sowie die kolonialen Verflechtungen der Schweiz und Berns, die sich in der Institutions- und Sammlungsgeschichte des Bernischen Historischen Museums spiegeln, waren Auslöser für einen Reflexionsprozess und die Auseinandersetzung mit Rassismus als eine der besonders virulenten Diskriminierungsformen.
 
@@ -37,7 +37,7 @@ Das Projekts «Usakos – Making of Common History» fokussiert auf die Zusammen
 
 Die Erkenntnisse, die aus den verschiedenen Projekten, Ausstellungen, Forschungsarbeiten und Kooperationen gewonnen werden, fliessen in die aktuelle Museumsarbeit und somit in die Dokumentation zurück. Die in der Museumsdatenbank erschlossenen Informationen werden dadurch laufend aktualisiert und durch neueste Forschungsergebnisse ergänzt. Wertvolle Anregungen lieferte die Arbeit und der Austausch in der Arbeitsgruppe «Critical GLAM» und die Sensibilisierung für eine rassismuskritische Dokumentationsarbeit, für kritisches Katalogisieren und sensible Bildinhalte konnte im Team weiter gestärkt werden. Die Überarbeitung von Objektdatensätzen findet in den bestehenden Strukturen und Feldern der Museumsdatenbank statt und es bedurfte bis anhin keiner technischen Anpassungen.
 
-## ETH-Bibliothek, ETH Zürich
+## 8.2 ETH-Bibliothek, ETH Zürich
 
 Koloniale Verflechtungen spiegeln sich auch in der Geschichte der ETH Zürich wider. Viele Wissenschaftler nutzten die kolonialen Infrastrukturen anderer Länder, um ihre Forschungen voranzutreiben und Material aus kolonisierten Gebieten zu sammeln. Diese Vergangenheit zeigt sich noch heute in den Sammlungen, Archiven und Denkmälern der ETH Zürich. Vor diesem Hintergrund übernimmt die ETH-Bibliothek eine aktive Rolle in der kritischen Aufarbeitung ihres Erbes und engagiert sich im Rahmen internationaler Dekolonisierungsdebatten in mehreren Initiativen.
 
@@ -53,7 +53,7 @@ Ein drittes Projekt umfasst die Denkmäler der ETH Zürich. Über 100 Gedenkobje
 
 ![](/images/image016.jpg)
 
-## Fotostiftung Schweiz
+## 8.3 Fotostiftung Schweiz
 
 Die Fotostiftung Schweiz sammelt Fotografie mit einem Bezug zur Schweiz von den Anfängen der Fotografie bis heute. Dieses Erbe ist eng mit gesellschaftlichen Ideologien und politischen Strukturen verknüpft und spiegelt Privilegien und Ausschlüsse wider. Strukturell verankerte Diskriminierung und Rassismus prägen sowohl fotografische Produktionen als auch institutionelle Dokumentationspraktiken bis heute. Sie zeigen sich nicht nur in sensiblen Bildinhalten, sondern auch in problematischen Bildsprachen oder diskriminierenden Metadaten.
 
@@ -68,7 +68,7 @@ Hinzu kommt, dass bei Sammlungszugängen die Prüfung hinsichtlich sensibler Bil
 
 Die Entscheidungen und Massnahmen wurden im Team diskutiert und im Sinne einer internen Strategie verabschiedet. In diesem Austausch zeigte sich, dass viele Objektdatensätze in einem Graubereich angesiedelt sind und wir nicht für alle Problemfelder die nötige Entscheidungsgrundlage und das nötige Wissen haben. Über das «Netzwerk Fotografien aus kolonialen Kontexten» befindet sich die Fotostiftung in einem kontinuierlichen Austausch zu spezifischen Fragestellungen mit anderen Institutionen im deutschsprachigen Raum. Die Diskussion über einzelne Datensätze oder Bestände muss gleichzeitig im Team, in weiteren Netzwerken, mit Abgebildeten und Mitgemeinten und/oder mit Expert:innengruppen (weiter-)geführt und so auch unsere Bildkompetenz diskriminierungskritisch weiterentwickelt werden. Das Handbuch und die damit verbundenen ersten Bearbeitungsschritte sind ein Anfang in einem anhaltenden Prozess, in dem wir uns in unseren Dokumentationspraktiken erst anfangen zu hinterfragen.
 
-## Historisches Museum Basel
+## 8.4 Historisches Museum Basel
 
 Im Rahmen der Beteiligung des Historischen Museums Basel an der Arbeitsgruppe «Critical GLAM» fanden hausinterne Diskussionen zum Thema statt. Für uns steht fest, dass wir uns dem Thema annehmen und eine Lösung für den Umgang mit diskriminierendem Vokabular in der Sammlungsdatenbank entwickeln möchten.
 
@@ -78,7 +78,7 @@ Bislang wurden 241 Objekte erfasst, die problematische Begriffe oder Bildinhalte
 
 Eine abschliessende Lösung für den Umgang mit der Thematik steht noch aus.
 
-## Museum für Kommunikation
+## 8.5 Museum für Kommunikation
 
 Das Museum für Kommunikation hat 2022 eine Diversitätsstrategie verabschiedet. Das Haltungspapier formuliert Wirkungsziele und Massnahmen für eine kontinuierliche und nachhaltige Entwicklung in Richtung Inklusion und Diversität. Daraus wurden Handlungsfelder für die einzelnen Bereiche abgeleitet, für die Sammlungen unter anderem die diskriminierungskritische Überprüfung der Datenbank.[[171]](#footnote-172) Deshalb hat sich das Museum für Kommunikation auch an der Arbeitsgruppe «Critical GLAM» beteiligt. 2024 hat das Sammlungsteam zudem ein neues Sammlungskonzept verfasst, das Haltungen zu Diversität und Partizipation für die Sammelpraxis genauer ausformuliert und 2025 veröffentlicht.[[172]](#footnote-173) Der diskriminierungssensible Umgang mit Objekten und Metadaten in der Datenbank ist dort festgehalten.
 
@@ -86,7 +86,7 @@ Als ersten Umsetzungsschritt hat das Sammlungsteam – durch gezielte Recherche 
 
 Auf Initiative der Stelle «Partizipation Sammlungen» und einer Kommunikatorin (Vermittlerin im Museum für Kommunikation) hat das Museum 2023 ein partizipatives, prozessoffenes Projekt zum Thema Antirassismus gestartet. Daraus ergab sich 2025 das Folgeprojekt «Rassismuskritische Narrative im Museum für Kommunikation – eine gemeinsame Suche», das gemeinsam mit Beteiligten des Vorprojekts initiiert und von einer externen Expertin co-geleitet wird. Im Projekt konzipieren Expert:innen in Antirassismus, Organisationsentwicklung und Museumsarbeit Workshops für Mitarbeitende verschiedener Teams. Der Fokus liegt dabei auf den Ausstellungen, auf übergeordneter Ebene geht es jedoch um allgemeine Grundsätze rassismuskritischer Arbeit: Sind Museen *weisse* Räume? Welche Rolle spielen Aspekte wie Machtbeziehungen, Distanzierungsmuster oder epistemische Gewalt, wenn wir uns gemeinsam mit BIPoC mit rassismuskritischer Museumsarbeit auseinandersetzen wollen? Wie können wir die Angst, etwas falsch zu machen überwinden und ins Handeln kommen? Solche Learnings verändern, wie wir über (Anti-)Rassismus und unsere Rolle als Museum nachdenken, wobei es sich um einen unabschliessbaren Lernprozess handelt. Die Erkenntnisse fliessen auch in die Sammlungsarbeit ein. Die Ergebnisse aus dem Projekt sollen veröffentlicht werden, um Erfahrungen und Learnings mit anderen Institutionen und Akteur:innen zu teilen. Geplant ist, die rassismuskritische Bearbeitung der Datenbank 2025 zu starten und dabei eine:n Expert:in aus dem Projekt «Rassismuskritische Narrative» beizuziehen.
 
-## Schweizerisches Nationalmuseum
+## 8.6 Schweizerisches Nationalmuseum
 
 Fragen der Gesellschaft an die Vergangenheit haben in den letzten Jahren ein wachsendes Bewusstsein für historisch belastetes Kulturerbe geschaffen. In Hinblick auf die geplante Ausstellung «kolonial – Globale Verflechtungen der Schweiz» (13. September 2024 – 19. Januar 2025 im Landesmuseum Zürich) hat sich das SNM im Frühjahr 2022 zum Ziel gesetzt, diskriminierende und rassistische Inhalte in seiner Sammlungsdatenbank aufzuarbeiten. Zwei Mitarbeitende des SNM, Céline Hug und Dario Donati, haben in einem Teil ihres Pensums damit begonnen, problematische Datensätze auf sprachlicher und visueller Ebene zu identifizieren, zu analysieren sowie eine Vorgehensweise zu skizzieren, wie damit umgegangen werden soll.
 
@@ -98,7 +98,7 @@ Das SNM hat sich entschlossen, die von sensiblen Inhalten betroffenen Objekte vo
 
 ![](/images/image017.jpg)
 
-## Stiftung für Kunst, Kultur und Geschichte
+## 8.7 Stiftung für Kunst, Kultur und Geschichte
 
 Die Stiftung für Kunst, Kultur und Geschichte (SKKG) setzt sich für einen bewussten Umgang mit sensiblen und diskriminierungskritischen Objekten in ihrer Sammlung ein. Die Beschäftigung mit diesen Themen im Austausch mit der Fachwelt ist integraler Bestandteil der stetigen Auseinandersetzung mit der eigenen Sammlung und der Aufbereitung der Sammlungsdokumentation. Aus diesem Grund hat sich die SKKG an der Arbeitsgruppe «Critical GLAM» beteiligt und ist überdies im Kooperationsprojekt «Geschichte(n) für die globale Gegenwart» (2023–2026) der ZHdK und der PH Zürich als Praxispartnerin involviert. Eine vertiefte Auseinandersetzung im Umgang mit diskriminierungskritischen Inhalten im ganzen Team, das Treffen von Entscheidungen und das Umsetzen von Massnahmen steht erst am Anfang. Die systematische Aufarbeitung der Sammlungsdokumentation steht angesichts der Themenkomplexität rund um diskriminierungskritisches Vokabular und der Grösse der Sammlung noch bevor. Die hinsichtlich Darstellung oder Bezeichnung potenziell näher zu betrachtenden Kunstwerke und Objekte werden in der Sammlungsdatenbank laufend einer Objektgruppe hinzugefügt, sodass sie zur späteren Aufarbeitung leicht zu finden sind.
 
@@ -106,6 +106,6 @@ Die Sammlung im Umfang von rund 100'000 Kunstwerken und historischen Objekten wu
 
 Über die «Sammlung digital» ist die Sammlung der SKKG seit Anfang März 2025 zum ersten Mal online zugänglich.[[173]](#footnote-174) Seither weist ein Disclaimer die Öffentlichkeit auf die Weiterarbeit an der Sammlungsdokumentation und damit der laufenden Verbesserung der Daten hin.[[174]](#footnote-175) Dazu gehört u.a. die kritische Auseinandersetzung mit diskriminierungskritischen Themen und dass die daraus hervorgehenden Ergebnisse im Laufe der Zeit sichtbar werden. In den Frequently Asked Questions (FAQs) ist festgehalten, dass die Titel und weiteren Angaben zu den Kunstwerken und Objekten weitestgehend von Auktionshäusern stammen und von der SKKG nicht weiter überprüft, recherchiert und überarbeitet wurden. Einschlägige Wörter sind zurzeit komplett lesbar (ohne die Verwendung von Sternchen), auch Bilder mit diskriminierenden Motiven werden angezeigt und sind aktuell weder kommentiert noch kontextualisiert. Teilweise werden schon jetzt mehrere Objekt- bzw. Werktitel parallel geführt, sodass ein neutral formulierter als bevorzugter Titel verwendet und auch in den Suchresultaten angezeigt wird, problematischere Titel jedoch als alternative Titel zu finden sind. Was aussteht, sind Texte auf der «Sammlung digital», die vorhandene Problematiken objektspezifisch oder objektübergreifend adressieren und kontextualisieren.
 
-## Kunsthaus
+## 8.8 Kunsthaus
 
 ![](/images/image018.jpg)
