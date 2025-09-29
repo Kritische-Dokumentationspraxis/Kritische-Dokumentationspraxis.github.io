@@ -1,7 +1,8 @@
 ---
 title: "Erste Schritte einer rassismus und diskriminierungskritischen Dokumentation"
 slug: "erste_schritte_einer_rassismus-_und_diskriminierungskritischen_dokumentation"
-order: 80
+order: 70
+index: 1
 color: "default"
 toc:
   - level: 2

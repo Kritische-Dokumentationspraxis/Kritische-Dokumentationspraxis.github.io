@@ -1,7 +1,8 @@
 ---
 title: "Lösungsansätze aus den Sammlungen"
 slug: "lösungsansätze_aus_den_sammlungen"
-order: 240
+order: 150
+index: 9
 color: "default"
 toc:
   - level: 2

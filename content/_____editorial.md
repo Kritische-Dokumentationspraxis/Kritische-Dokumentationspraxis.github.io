@@ -2,6 +2,7 @@
 title: "Editorial"
 slug: "editorial"
 order: 60
+index: 0
 color: "default"
 toc:
   - level: 2

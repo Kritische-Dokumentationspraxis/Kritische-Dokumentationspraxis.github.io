@@ -1,7 +1,8 @@
 ---
 title: "Bibliografie"
 slug: "bibliografie"
-order: 360
+order: 210
+index: 15
 color: "default"
 toc:
 ---

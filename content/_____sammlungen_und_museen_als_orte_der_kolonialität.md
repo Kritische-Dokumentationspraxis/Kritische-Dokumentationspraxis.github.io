@@ -1,7 +1,8 @@
 ---
 title: "Sammlungen und Museen als Orte der Kolonialität"
 slug: "sammlungen_und_museen_als_orte_der_kolonialität"
-order: 100
+order: 80
+index: 2
 color: "default"
 toc:
 ---

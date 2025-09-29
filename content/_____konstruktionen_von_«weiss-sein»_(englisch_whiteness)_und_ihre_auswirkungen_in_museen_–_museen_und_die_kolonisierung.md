@@ -1,7 +1,8 @@
 ---
 title: "Konstruktionen von «WeissSein» englisch Whiteness und ihre Auswirkungen in Museen – Museen und die Kolonisierung"
 slug: "konstruktionen_von_«weiss-sein»_(englisch_whiteness)_und_ihre_auswirkungen_in_museen_–_museen_und_die_kolonisierung"
-order: 160
+order: 110
+index: 5
 color: "default"
 toc:
 ---

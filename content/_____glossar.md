@@ -1,7 +1,8 @@
 ---
 title: "Glossar"
 slug: "glossar"
-order: 320
+order: 190
+index: 13
 color: "default"
 toc:
   - level: 2

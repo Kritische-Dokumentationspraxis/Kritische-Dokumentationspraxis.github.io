@@ -1,7 +1,8 @@
 ---
 title: "Interne Verwendung von Daten und Aufbereitung zur Veröffentlichung"
 slug: "interne_verwendung_von_daten_und_aufbereitung_zur_veröffentlichung"
-order: 180
+order: 120
+index: 6
 color: "default"
 toc:
   - level: 2

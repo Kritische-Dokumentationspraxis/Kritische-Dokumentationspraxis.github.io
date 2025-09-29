@@ -1,7 +1,8 @@
 ---
 title: "Rassismus, Diskriminierung und Künstliche Intelligenz KI"
 slug: "rassismus,_diskriminierung_und_künstliche_intelligenz_(ki)"
-order: 280
+order: 170
+index: 11
 color: "default"
 toc:
 ---

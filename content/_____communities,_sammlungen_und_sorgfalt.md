@@ -1,7 +1,8 @@
 ---
 title: "Communities, Sammlungen und Sorgfalt"
 slug: "communities,_sammlungen_und_sorgfalt"
-order: 140
+order: 100
+index: 4
 color: "default"
 toc:
 ---
