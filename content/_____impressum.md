@@ -1,32 +1,32 @@
 ---
 title: "Impressum"
 slug: "impressum"
-order: 360
+order: 380
 color: "default"
 toc:
 ---
 
 Projektleitung
 
-Schweizerisches Nationalmuseum
+Schweizerisches Nationalmuseum, Céline Hug und Dario Donati
 
 Mitwirkende Institutionen:
 
-Bernisches Historisches Museum
+Bernisches Historisches Museum, Barbara Weber
 
-ETH-Bibliothek, Sammlungen und Archive, ETH Zürich
+ETH-Bibliothek, Sammlungen und Archive, ETH Zürich, Roberta Spano und Stephanie Willi
 
-Historisches Museum Basel
+Historisches Museum Basel, Patrick Moser und Andrea Arnold
 
-Kunsthaus Zürich
+Kunsthaus Zürich, Ruth Kistler
 
-Museum für Kommunikation, Bern
+Museum für Kommunikation, Bern, Jonas Bürgi
 
-Schweizerische Fotostiftung
+Schweizerische Fotostiftung, Michèle Dick
 
-Schweizerisches Nationalmuseum
+Schweizerisches Nationalmuseum, Céline Hug und Dario Donati
 
-Stiftung für Kunst, Kultur und Geschichte (SKKG)
+Stiftung für Kunst, Kultur und Geschichte (SKKG), Sonja Gasser
 
 Konzept- und Projektbegleitung:
 
@@ -34,11 +34,7 @@ Danielle Isler
 
 Textbeiträge:
 
-Dr. Chonja Lee, Dr. Monique Lightenberg, Danielle Isler, Noemie Etienne
-
-Wissenschaftliche Prüfung:
-
-Jonas Sebastian Lendenmann, Danielle Isler, Dr. Roberto Zaugg
+Dr. Chonja Lee, Dr. Monique Ligtenberg, Danielle Isler, Noemie Etienne
 
 Fotos
 
